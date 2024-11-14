@@ -34,9 +34,47 @@ module residential {
 }
 
 module powerflow {
-    solver_method FBS;
+    solver_method NR;
     default_maximum_voltage_error 1e-4;
     line_limits TRUE;
+}
+
+module reliability {
+	maximum_event_length 300 s;
+	report_event_log TRUE;
+};
+
+//setup reliability
+object fault_check {				//Fault check object - required to make powerflow properly handle faults
+	name test_fault;
+	check_mode ONCHANGE;			//Fault check mode - should be in ONCHANGE - reliability will change it
+	eventgen_object RandEvent;		//Link to eventgen object - used to handle "unscheduled" events - fuses and switch openings
+	output_filename testout.txt;	//"unsupported node" dump file
+};
+
+object power_metrics {		//Powerflow metrics object - performs 1366 metric calculations
+	name pwrmetrics;
+    	//Base time value for 1366-metrics.  Defaults to 1 minute
+}
+
+object metrics {
+	name testmetrics;
+	report_file testmetrics.txt;						//Name of the output file
+	module_metrics_object pwrmetrics;					//Module-specific "metrics" object - a powerflow metrics object is specified here
+	metrics_of_interest "SAIFI,SAIDI,CAIDI,ASAI,MAIFI";	//Metrics to output into the report file
+	customer_group "groupid=METERTEST";					//Search criteria for determining "customers" of the system - similar to collectors - this group is both three-phase and triplex meters
+	//customer_group "class=meter";						//"Customers" are only 3-phase meters on the system
+	//customer_group "class=triplex_meter";				//"Customers" are only triplex meters on the system
+	metric_interval 1 h; 								//Interval to run metrics - (separate from "simulation-long" metrics) - set to 0 for no metric updates (defaults to no interval updates)
+	report_interval 1 h;								//Interval to dump metric updates to the output file.
+}
+
+object eventgen {
+	name RandEvent;
+	parent testmetrics;
+	//target_group "class=overhead_line_conductor";
+	fault_type "OC-X";
+    manual_outages "linobj12, 2013-08-28 0:00:00,2013-08-28 01:00:00";
 }
 
 class player {
@@ -1858,6 +1896,7 @@ object meter {
     voltage_B -1200.8886-2080.000j;
     voltage_C -1200.8886+2080.000j;
     nominal_voltage 2401.7771;
+    groupid METERTEST;
 };
 
 object node {

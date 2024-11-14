@@ -1,0 +1,2578 @@
+HELICS Version: 3.4.0 (2023-01-19)
+TransmissionSim: Federate TransmissionSim has been registered
+TransmissionSim: Registered Publication ---> TransmissionSim/transmission_voltage
+/home/safiy/cps-cosimulation-env/.venv/lib/python3.10/site-packages/helics/capi.py:9014: UserWarning: This is deprecated. Use `helicsInputGetTarget` instead.
+  warnings.warn("This is deprecated. Use `helicsInputGetTarget` instead.")
+TransmissionSim: Registered Subscription ---> IEEE_123_feeder_0/totalLoad
+TransmissionSim: Substation Voltage to the Distribution System = 136.59 kV
+TransmissionSim: Federate Granted Time = 60.0
+TransmissionSim: Substation Load from Distribution System = (-0+0j) kW
+TransmissionSim: Current AC-PF TIme is 0.0 and Next AC-OPF time is 0.0
+TransmissionSim: Substation Voltage to the Distribution System = 144.17 kV
+TransmissionSim: Federate Granted Time = 300.0
+TransmissionSim: Substation Load from Distribution System = 0j kW
+TransmissionSim: Current AC-PF TIme is 300.0 and Next AC-OPF time is 900.0
+/home/safiy/cps-cosimulation-env/simple_gridlabd_example/Transmission/Transmission_simulator.py:223: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  plt.show(block=False)
+/home/safiy/cps-cosimulation-env/simple_gridlabd_example/Transmission/Transmission_simulator.py:224: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  plt.pause(0.1)
+TransmissionSim: Substation Voltage to the Distribution System = 144.17 kV
+TransmissionSim: Federate Granted Time = 600.0
+TransmissionSim: Substation Load from Distribution System = 0j kW
+TransmissionSim: Current AC-PF TIme is 600.0 and Next AC-OPF time is 900.0
+TransmissionSim: Substation Voltage to the Distribution System = 144.17 kV
+TransmissionSim: Federate Granted Time = 900.0
+TransmissionSim: Substation Load from Distribution System = 0j kW
+TransmissionSim: Current AC-PF TIme is 900.0 and Next AC-OPF time is 900.0
+TransmissionSim: Substation Voltage to the Distribution System = 144.14 kV
+TransmissionSim: Federate Granted Time = 1200.0
+TransmissionSim: Substation Load from Distribution System = 0j kW
+TransmissionSim: Current AC-PF TIme is 1200.0 and Next AC-OPF time is 1800.0
+TransmissionSim: Substation Voltage to the Distribution System = 144.14 kV
+TransmissionSim: Federate Granted Time = 1500.0
+TransmissionSim: Substation Load from Distribution System = -0j kW
+TransmissionSim: Current AC-PF TIme is 1500.0 and Next AC-OPF time is 1800.0
+TransmissionSim: Substation Voltage to the Distribution System = 144.15 kV
+TransmissionSim: Federate Granted Time = 1800.0
+TransmissionSim: Substation Load from Distribution System = (-0+0j) kW
+TransmissionSim: Current AC-PF TIme is 1800.0 and Next AC-OPF time is 1800.0
+TransmissionSim: Substation Voltage to the Distribution System = 144.1 kV
+TransmissionSim: Federate Granted Time = 2100.0
+TransmissionSim: Substation Load from Distribution System = -0j kW
+TransmissionSim: Current AC-PF TIme is 2100.0 and Next AC-OPF time is 2700.0
+TransmissionSim: Substation Voltage to the Distribution System = 144.1 kV
+TransmissionSim: Federate Granted Time = 2400.0
+TransmissionSim: Substation Load from Distribution System = 0j kW
+TransmissionSim: Current AC-PF TIme is 2400.0 and Next AC-OPF time is 2700.0
+TransmissionSim: Substation Voltage to the Distribution System = 144.1 kV
+TransmissionSim: Federate Granted Time = 2700.0
+TransmissionSim: Substation Load from Distribution System = -0j kW
+TransmissionSim: Current AC-PF TIme is 2700.0 and Next AC-OPF time is 2700.0
+TransmissionSim: Substation Voltage to the Distribution System = 144.09 kV
+TransmissionSim: Federate Granted Time = 3000.0
+TransmissionSim: Substation Load from Distribution System = 0j kW
+TransmissionSim: Current AC-PF TIme is 3000.0 and Next AC-OPF time is 3600.0
+TransmissionSim: Substation Voltage to the Distribution System = 144.09 kV
+TransmissionSim: Federate Granted Time = 3300.0
+TransmissionSim: Substation Load from Distribution System = -0j kW
+TransmissionSim: Current AC-PF TIme is 3300.0 and Next AC-OPF time is 3600.0
+TransmissionSim: Substation Voltage to the Distribution System = 144.09 kV
+TransmissionSim: Federate Granted Time = 3600.0
+TransmissionSim: Substation Load from Distribution System = 0j kW
+TransmissionSim: Current AC-PF TIme is 3600.0 and Next AC-OPF time is 3600.0
+TransmissionSim: Substation Voltage to the Distribution System = 144.05 kV
+TransmissionSim: Federate Granted Time = 3900.0
+TransmissionSim: Substation Load from Distribution System = (1653.1611-39.00788j) kW
+TransmissionSim: Current AC-PF TIme is 3900.0 and Next AC-OPF time is 4500.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.76 kV
+TransmissionSim: Federate Granted Time = 4200.0
+TransmissionSim: Substation Load from Distribution System = (1602.58652+860.5100699999999j) kW
+TransmissionSim: Current AC-PF TIme is 4200.0 and Next AC-OPF time is 4500.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.22 kV
+TransmissionSim: Federate Granted Time = 4500.0
+TransmissionSim: Substation Load from Distribution System = (1576.38021+848.74595j) kW
+TransmissionSim: Current AC-PF TIme is 4500.0 and Next AC-OPF time is 4500.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.9 kV
+TransmissionSim: Federate Granted Time = 4800.0
+TransmissionSim: Substation Load from Distribution System = (1542.8548500000002+836.45601j) kW
+TransmissionSim: Current AC-PF TIme is 4800.0 and Next AC-OPF time is 5400.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.92 kV
+TransmissionSim: Federate Granted Time = 5100.0
+TransmissionSim: Substation Load from Distribution System = (1539.0555200000001+833.83954j) kW
+TransmissionSim: Current AC-PF TIme is 5100.0 and Next AC-OPF time is 5400.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.92 kV
+TransmissionSim: Federate Granted Time = 5400.0
+TransmissionSim: Substation Load from Distribution System = (1515.60745+826.90285j) kW
+TransmissionSim: Current AC-PF TIme is 5400.0 and Next AC-OPF time is 5400.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.91 kV
+TransmissionSim: Federate Granted Time = 5700.0
+TransmissionSim: Substation Load from Distribution System = (1510.7197800000001+825.74968j) kW
+TransmissionSim: Current AC-PF TIme is 5700.0 and Next AC-OPF time is 6300.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.91 kV
+TransmissionSim: Federate Granted Time = 6000.0
+TransmissionSim: Substation Load from Distribution System = (1524.41983+829.9034499999999j) kW
+TransmissionSim: Current AC-PF TIme is 6000.0 and Next AC-OPF time is 6300.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.91 kV
+TransmissionSim: Federate Granted Time = 6300.0
+TransmissionSim: Substation Load from Distribution System = (1520.45552+828.46899j) kW
+TransmissionSim: Current AC-PF TIme is 6300.0 and Next AC-OPF time is 6300.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.9 kV
+TransmissionSim: Federate Granted Time = 6600.0
+TransmissionSim: Substation Load from Distribution System = (1506.48881+824.24431j) kW
+TransmissionSim: Current AC-PF TIme is 6600.0 and Next AC-OPF time is 7200.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.91 kV
+TransmissionSim: Federate Granted Time = 6900.0
+TransmissionSim: Substation Load from Distribution System = (1513.70074+826.80304j) kW
+TransmissionSim: Current AC-PF TIme is 6900.0 and Next AC-OPF time is 7200.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.91 kV
+TransmissionSim: Federate Granted Time = 7200.0
+TransmissionSim: Substation Load from Distribution System = (1510.4468200000001+825.88501j) kW
+TransmissionSim: Current AC-PF TIme is 7200.0 and Next AC-OPF time is 7200.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.9 kV
+TransmissionSim: Federate Granted Time = 7500.0
+TransmissionSim: Substation Load from Distribution System = (1517.63215+827.45915j) kW
+TransmissionSim: Current AC-PF TIme is 7500.0 and Next AC-OPF time is 8100.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.9 kV
+TransmissionSim: Federate Granted Time = 7800.0
+TransmissionSim: Substation Load from Distribution System = (1499.03031+822.09708j) kW
+TransmissionSim: Current AC-PF TIme is 7800.0 and Next AC-OPF time is 8100.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.91 kV
+TransmissionSim: Federate Granted Time = 8100.0
+TransmissionSim: Substation Load from Distribution System = (1510.09571+825.77193j) kW
+TransmissionSim: Current AC-PF TIme is 8100.0 and Next AC-OPF time is 8100.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.87 kV
+TransmissionSim: Federate Granted Time = 8400.0
+TransmissionSim: Substation Load from Distribution System = (1505.90252+824.4513499999999j) kW
+TransmissionSim: Current AC-PF TIme is 8400.0 and Next AC-OPF time is 9000.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.87 kV
+TransmissionSim: Federate Granted Time = 8700.0
+TransmissionSim: Substation Load from Distribution System = (1508.08243+824.80837j) kW
+TransmissionSim: Current AC-PF TIme is 8700.0 and Next AC-OPF time is 9000.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.87 kV
+TransmissionSim: Federate Granted Time = 9000.0
+TransmissionSim: Substation Load from Distribution System = (1497.11128+821.6630600000001j) kW
+TransmissionSim: Current AC-PF TIme is 9000.0 and Next AC-OPF time is 9000.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.89 kV
+TransmissionSim: Federate Granted Time = 9300.0
+TransmissionSim: Substation Load from Distribution System = (1509.67532+825.6009799999999j) kW
+TransmissionSim: Current AC-PF TIme is 9300.0 and Next AC-OPF time is 9900.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.89 kV
+TransmissionSim: Federate Granted Time = 9600.0
+TransmissionSim: Substation Load from Distribution System = (1506.8957+824.80383j) kW
+TransmissionSim: Current AC-PF TIme is 9600.0 and Next AC-OPF time is 9900.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.89 kV
+TransmissionSim: Federate Granted Time = 9900.0
+TransmissionSim: Substation Load from Distribution System = (1499.85979+822.3302199999999j) kW
+TransmissionSim: Current AC-PF TIme is 9900.0 and Next AC-OPF time is 9900.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.88 kV
+TransmissionSim: Federate Granted Time = 10200.0
+TransmissionSim: Substation Load from Distribution System = (1486.96153+818.5909j) kW
+TransmissionSim: Current AC-PF TIme is 10200.0 and Next AC-OPF time is 10800.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.89 kV
+TransmissionSim: Federate Granted Time = 10500.0
+TransmissionSim: Substation Load from Distribution System = (1484.83383+818.48152j) kW
+TransmissionSim: Current AC-PF TIme is 10500.0 and Next AC-OPF time is 10800.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.89 kV
+TransmissionSim: Federate Granted Time = 10800.0
+TransmissionSim: Substation Load from Distribution System = (1501.34198+823.22424j) kW
+TransmissionSim: Current AC-PF TIme is 10800.0 and Next AC-OPF time is 10800.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.89 kV
+TransmissionSim: Federate Granted Time = 11100.0
+TransmissionSim: Substation Load from Distribution System = (1492.22882+820.14417j) kW
+TransmissionSim: Current AC-PF TIme is 11100.0 and Next AC-OPF time is 11700.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.89 kV
+TransmissionSim: Federate Granted Time = 11400.0
+TransmissionSim: Substation Load from Distribution System = (1498.8489399999999+822.02912j) kW
+TransmissionSim: Current AC-PF TIme is 11400.0 and Next AC-OPF time is 11700.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.89 kV
+TransmissionSim: Federate Granted Time = 11700.0
+TransmissionSim: Substation Load from Distribution System = (1503.18698+823.73174j) kW
+TransmissionSim: Current AC-PF TIme is 11700.0 and Next AC-OPF time is 11700.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.9 kV
+TransmissionSim: Federate Granted Time = 12000.0
+TransmissionSim: Substation Load from Distribution System = (1505.61323+824.48027j) kW
+TransmissionSim: Current AC-PF TIme is 12000.0 and Next AC-OPF time is 12600.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.9 kV
+TransmissionSim: Federate Granted Time = 12300.0
+TransmissionSim: Substation Load from Distribution System = (1508.4563999999998+824.818j) kW
+TransmissionSim: Current AC-PF TIme is 12300.0 and Next AC-OPF time is 12600.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.9 kV
+TransmissionSim: Federate Granted Time = 12600.0
+TransmissionSim: Substation Load from Distribution System = (1494.3603600000001+820.75701j) kW
+TransmissionSim: Current AC-PF TIme is 12600.0 and Next AC-OPF time is 12600.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.9 kV
+TransmissionSim: Federate Granted Time = 12900.0
+TransmissionSim: Substation Load from Distribution System = (1498.08112+822.2995999999999j) kW
+TransmissionSim: Current AC-PF TIme is 12900.0 and Next AC-OPF time is 13500.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.9 kV
+TransmissionSim: Federate Granted Time = 13200.0
+TransmissionSim: Substation Load from Distribution System = (1489.9471899999999+819.99583j) kW
+TransmissionSim: Current AC-PF TIme is 13200.0 and Next AC-OPF time is 13500.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.9 kV
+TransmissionSim: Federate Granted Time = 13500.0
+TransmissionSim: Substation Load from Distribution System = (1489.35599+819.36822j) kW
+TransmissionSim: Current AC-PF TIme is 13500.0 and Next AC-OPF time is 13500.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.9 kV
+TransmissionSim: Federate Granted Time = 13800.0
+TransmissionSim: Substation Load from Distribution System = (1504.97423+823.7966600000001j) kW
+TransmissionSim: Current AC-PF TIme is 13800.0 and Next AC-OPF time is 14400.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.89 kV
+TransmissionSim: Federate Granted Time = 14100.0
+TransmissionSim: Substation Load from Distribution System = (1510.0988300000001+825.70253j) kW
+TransmissionSim: Current AC-PF TIme is 14100.0 and Next AC-OPF time is 14400.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.89 kV
+TransmissionSim: Federate Granted Time = 14400.0
+TransmissionSim: Substation Load from Distribution System = (1514.7546399999999+827.0513199999999j) kW
+TransmissionSim: Current AC-PF TIme is 14400.0 and Next AC-OPF time is 14400.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.9 kV
+TransmissionSim: Federate Granted Time = 14700.0
+TransmissionSim: Substation Load from Distribution System = (1515.39885+826.7955j) kW
+TransmissionSim: Current AC-PF TIme is 14700.0 and Next AC-OPF time is 15300.0
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+TransmissionSim: Substation Voltage to the Distribution System = 142.9 kV
+TransmissionSim: Federate Granted Time = 15000.0
+TransmissionSim: Substation Load from Distribution System = (1517.21505+827.52958j) kW
+TransmissionSim: Current AC-PF TIme is 15000.0 and Next AC-OPF time is 15300.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.9 kV
+TransmissionSim: Federate Granted Time = 15300.0
+TransmissionSim: Substation Load from Distribution System = (1509.48035+825.3675400000001j) kW
+TransmissionSim: Current AC-PF TIme is 15300.0 and Next AC-OPF time is 15300.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.92 kV
+TransmissionSim: Federate Granted Time = 15600.0
+TransmissionSim: Substation Load from Distribution System = (1495.81557+821.7400799999999j) kW
+TransmissionSim: Current AC-PF TIme is 15600.0 and Next AC-OPF time is 16200.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.93 kV
+TransmissionSim: Federate Granted Time = 15900.0
+TransmissionSim: Substation Load from Distribution System = (1514.3954899999999+826.80155j) kW
+TransmissionSim: Current AC-PF TIme is 15900.0 and Next AC-OPF time is 16200.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.92 kV
+TransmissionSim: Federate Granted Time = 16200.0
+TransmissionSim: Substation Load from Distribution System = (1520.4598600000002+828.28244j) kW
+TransmissionSim: Current AC-PF TIme is 16200.0 and Next AC-OPF time is 16200.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.93 kV
+TransmissionSim: Federate Granted Time = 16500.0
+TransmissionSim: Substation Load from Distribution System = (1524.19435+829.67962j) kW
+TransmissionSim: Current AC-PF TIme is 16500.0 and Next AC-OPF time is 17100.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.93 kV
+TransmissionSim: Federate Granted Time = 16800.0
+TransmissionSim: Substation Load from Distribution System = (1521.22381+829.04075j) kW
+TransmissionSim: Current AC-PF TIme is 16800.0 and Next AC-OPF time is 17100.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.93 kV
+TransmissionSim: Federate Granted Time = 17100.0
+TransmissionSim: Substation Load from Distribution System = (1503.3139199999998+823.6387900000001j) kW
+TransmissionSim: Current AC-PF TIme is 17100.0 and Next AC-OPF time is 17100.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.99 kV
+TransmissionSim: Federate Granted Time = 17400.0
+TransmissionSim: Substation Load from Distribution System = (1515.04969+826.96845j) kW
+TransmissionSim: Current AC-PF TIme is 17400.0 and Next AC-OPF time is 18000.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.98 kV
+TransmissionSim: Federate Granted Time = 17700.0
+TransmissionSim: Substation Load from Distribution System = (1540.6651399999998+834.5638j) kW
+TransmissionSim: Current AC-PF TIme is 17700.0 and Next AC-OPF time is 18000.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.97 kV
+TransmissionSim: Federate Granted Time = 18000.0
+TransmissionSim: Substation Load from Distribution System = (1544.3045+835.7780799999999j) kW
+TransmissionSim: Current AC-PF TIme is 18000.0 and Next AC-OPF time is 18000.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.99 kV
+TransmissionSim: Federate Granted Time = 18300.0
+TransmissionSim: Substation Load from Distribution System = (1524.7940800000001+829.98569j) kW
+TransmissionSim: Current AC-PF TIme is 18300.0 and Next AC-OPF time is 18900.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.0 kV
+TransmissionSim: Federate Granted Time = 18600.0
+TransmissionSim: Substation Load from Distribution System = (1530.73074+831.49818j) kW
+TransmissionSim: Current AC-PF TIme is 18600.0 and Next AC-OPF time is 18900.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.0 kV
+TransmissionSim: Federate Granted Time = 18900.0
+TransmissionSim: Substation Load from Distribution System = (1536.98156+833.5540500000001j) kW
+TransmissionSim: Current AC-PF TIme is 18900.0 and Next AC-OPF time is 18900.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.03 kV
+TransmissionSim: Federate Granted Time = 19200.0
+TransmissionSim: Substation Load from Distribution System = (1536.8251+833.5427j) kW
+TransmissionSim: Current AC-PF TIme is 19200.0 and Next AC-OPF time is 19800.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.03 kV
+TransmissionSim: Federate Granted Time = 19500.0
+TransmissionSim: Substation Load from Distribution System = (1549.60984+837.24358j) kW
+TransmissionSim: Current AC-PF TIme is 19500.0 and Next AC-OPF time is 19800.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.02 kV
+TransmissionSim: Federate Granted Time = 19800.0
+TransmissionSim: Substation Load from Distribution System = (1560.8810700000001+840.23519j) kW
+TransmissionSim: Current AC-PF TIme is 19800.0 and Next AC-OPF time is 19800.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.06 kV
+TransmissionSim: Federate Granted Time = 20100.0
+TransmissionSim: Substation Load from Distribution System = (1575.09771+844.73028j) kW
+TransmissionSim: Current AC-PF TIme is 20100.0 and Next AC-OPF time is 20700.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.05 kV
+TransmissionSim: Federate Granted Time = 20400.0
+TransmissionSim: Substation Load from Distribution System = (1556.5446200000001+839.58161j) kW
+TransmissionSim: Current AC-PF TIme is 20400.0 and Next AC-OPF time is 20700.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.06 kV
+TransmissionSim: Federate Granted Time = 20700.0
+TransmissionSim: Substation Load from Distribution System = (1552.23109+838.0933299999999j) kW
+TransmissionSim: Current AC-PF TIme is 20700.0 and Next AC-OPF time is 20700.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.19 kV
+TransmissionSim: Federate Granted Time = 21000.0
+TransmissionSim: Substation Load from Distribution System = (1563.8754099999999+841.30335j) kW
+TransmissionSim: Current AC-PF TIme is 21000.0 and Next AC-OPF time is 21600.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.18 kV
+TransmissionSim: Federate Granted Time = 21300.0
+TransmissionSim: Substation Load from Distribution System = (1581.1254+846.5210400000001j) kW
+TransmissionSim: Current AC-PF TIme is 21300.0 and Next AC-OPF time is 21600.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.17 kV
+TransmissionSim: Federate Granted Time = 21600.0
+TransmissionSim: Substation Load from Distribution System = (1602.6602+853.2269699999999j) kW
+TransmissionSim: Current AC-PF TIme is 21600.0 and Next AC-OPF time is 21600.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.24 kV
+TransmissionSim: Federate Granted Time = 21900.0
+TransmissionSim: Substation Load from Distribution System = (1623.67082+859.247j) kW
+TransmissionSim: Current AC-PF TIme is 21900.0 and Next AC-OPF time is 22500.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.22 kV
+TransmissionSim: Federate Granted Time = 22200.0
+TransmissionSim: Substation Load from Distribution System = (1631.19928+860.8444599999999j) kW
+TransmissionSim: Current AC-PF TIme is 22200.0 and Next AC-OPF time is 22500.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.22 kV
+TransmissionSim: Federate Granted Time = 22500.0
+TransmissionSim: Substation Load from Distribution System = (1646.38109+865.82169j) kW
+TransmissionSim: Current AC-PF TIme is 22500.0 and Next AC-OPF time is 22500.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.29 kV
+TransmissionSim: Federate Granted Time = 22800.0
+TransmissionSim: Substation Load from Distribution System = (1659.1401+869.64123j) kW
+TransmissionSim: Current AC-PF TIme is 22800.0 and Next AC-OPF time is 23400.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.28 kV
+TransmissionSim: Federate Granted Time = 23100.0
+TransmissionSim: Substation Load from Distribution System = (1668.99158+872.5207800000001j) kW
+TransmissionSim: Current AC-PF TIme is 23100.0 and Next AC-OPF time is 23400.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.27 kV
+TransmissionSim: Federate Granted Time = 23400.0
+TransmissionSim: Substation Load from Distribution System = (1647.02642+865.90427j) kW
+TransmissionSim: Current AC-PF TIme is 23400.0 and Next AC-OPF time is 23400.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.32 kV
+TransmissionSim: Federate Granted Time = 23700.0
+TransmissionSim: Substation Load from Distribution System = (1663.9252+870.92426j) kW
+TransmissionSim: Current AC-PF TIme is 23700.0 and Next AC-OPF time is 24300.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.31 kV
+TransmissionSim: Federate Granted Time = 24000.0
+TransmissionSim: Substation Load from Distribution System = (1685.45023+877.68704j) kW
+TransmissionSim: Current AC-PF TIme is 24000.0 and Next AC-OPF time is 24300.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.3 kV
+TransmissionSim: Federate Granted Time = 24300.0
+TransmissionSim: Substation Load from Distribution System = (1689.5808100000002+878.56924j) kW
+TransmissionSim: Current AC-PF TIme is 24300.0 and Next AC-OPF time is 24300.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.39 kV
+TransmissionSim: Federate Granted Time = 24600.0
+TransmissionSim: Substation Load from Distribution System = (1719.3644199999999+887.00245j) kW
+TransmissionSim: Current AC-PF TIme is 24600.0 and Next AC-OPF time is 25200.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.37 kV
+TransmissionSim: Federate Granted Time = 24900.0
+TransmissionSim: Substation Load from Distribution System = (1722.17446+888.3635400000001j) kW
+TransmissionSim: Current AC-PF TIme is 24900.0 and Next AC-OPF time is 25200.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.37 kV
+TransmissionSim: Federate Granted Time = 25200.0
+TransmissionSim: Substation Load from Distribution System = (1736.59595+892.79165j) kW
+TransmissionSim: Current AC-PF TIme is 25200.0 and Next AC-OPF time is 25200.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.38 kV
+TransmissionSim: Federate Granted Time = 25500.0
+TransmissionSim: Substation Load from Distribution System = (1803.33887+912.15086j) kW
+TransmissionSim: Current AC-PF TIme is 25500.0 and Next AC-OPF time is 26100.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.34 kV
+TransmissionSim: Federate Granted Time = 25800.0
+TransmissionSim: Substation Load from Distribution System = (1815.93827+915.74037j) kW
+TransmissionSim: Current AC-PF TIme is 25800.0 and Next AC-OPF time is 26100.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.33 kV
+TransmissionSim: Federate Granted Time = 26100.0
+TransmissionSim: Substation Load from Distribution System = (1801.06146+911.59921j) kW
+TransmissionSim: Current AC-PF TIme is 26100.0 and Next AC-OPF time is 26100.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.34 kV
+TransmissionSim: Federate Granted Time = 26400.0
+TransmissionSim: Substation Load from Distribution System = (1814.73198+915.96988j) kW
+TransmissionSim: Current AC-PF TIme is 26400.0 and Next AC-OPF time is 27000.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.33 kV
+TransmissionSim: Federate Granted Time = 26700.0
+TransmissionSim: Substation Load from Distribution System = (1851.71197+926.60123j) kW
+TransmissionSim: Current AC-PF TIme is 26700.0 and Next AC-OPF time is 27000.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.3 kV
+TransmissionSim: Federate Granted Time = 27000.0
+TransmissionSim: Substation Load from Distribution System = (1882.3741699999998+935.2741j) kW
+TransmissionSim: Current AC-PF TIme is 27000.0 and Next AC-OPF time is 27000.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.26 kV
+TransmissionSim: Federate Granted Time = 27300.0
+TransmissionSim: Substation Load from Distribution System = (1871.54537+932.4231j) kW
+TransmissionSim: Current AC-PF TIme is 27300.0 and Next AC-OPF time is 27900.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.27 kV
+TransmissionSim: Federate Granted Time = 27600.0
+TransmissionSim: Substation Load from Distribution System = (1915.7788899999998+945.93001j) kW
+TransmissionSim: Current AC-PF TIme is 27600.0 and Next AC-OPF time is 27900.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.24 kV
+TransmissionSim: Federate Granted Time = 27900.0
+TransmissionSim: Substation Load from Distribution System = (1936.84257+951.6376j) kW
+TransmissionSim: Current AC-PF TIme is 27900.0 and Next AC-OPF time is 27900.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.22 kV
+TransmissionSim: Federate Granted Time = 28200.0
+TransmissionSim: Substation Load from Distribution System = (1951.1495400000001+955.5206j) kW
+TransmissionSim: Current AC-PF TIme is 28200.0 and Next AC-OPF time is 28800.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.21 kV
+TransmissionSim: Federate Granted Time = 28500.0
+TransmissionSim: Substation Load from Distribution System = (1979.66812+964.51526j) kW
+TransmissionSim: Current AC-PF TIme is 28500.0 and Next AC-OPF time is 28800.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.19 kV
+TransmissionSim: Federate Granted Time = 28800.0
+TransmissionSim: Substation Load from Distribution System = (1991.208+968.2676700000001j) kW
+TransmissionSim: Current AC-PF TIme is 28800.0 and Next AC-OPF time is 28800.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.15 kV
+TransmissionSim: Federate Granted Time = 29100.0
+TransmissionSim: Substation Load from Distribution System = (2024.78928+977.73425j) kW
+TransmissionSim: Current AC-PF TIme is 29100.0 and Next AC-OPF time is 29700.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.12 kV
+TransmissionSim: Federate Granted Time = 29400.0
+TransmissionSim: Substation Load from Distribution System = (2036.82945+981.29877j) kW
+TransmissionSim: Current AC-PF TIme is 29400.0 and Next AC-OPF time is 29700.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.11 kV
+TransmissionSim: Federate Granted Time = 29700.0
+TransmissionSim: Substation Load from Distribution System = (2067.4678799999997+991.01831j) kW
+TransmissionSim: Current AC-PF TIme is 29700.0 and Next AC-OPF time is 29700.0
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+TransmissionSim: Substation Voltage to the Distribution System = 143.08 kV
+TransmissionSim: Federate Granted Time = 30000.0
+TransmissionSim: Substation Load from Distribution System = (2135.9712400000003+1011.7053199999999j) kW
+TransmissionSim: Current AC-PF TIme is 30000.0 and Next AC-OPF time is 30600.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.04 kV
+TransmissionSim: Federate Granted Time = 30300.0
+TransmissionSim: Substation Load from Distribution System = (2194.67921+1029.87886j) kW
+TransmissionSim: Current AC-PF TIme is 30300.0 and Next AC-OPF time is 30600.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.0 kV
+TransmissionSim: Federate Granted Time = 30600.0
+TransmissionSim: Substation Load from Distribution System = (2201.90278+1031.99332j) kW
+TransmissionSim: Current AC-PF TIme is 30600.0 and Next AC-OPF time is 30600.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.93 kV
+TransmissionSim: Federate Granted Time = 30900.0
+TransmissionSim: Substation Load from Distribution System = (2220.7308700000003+1037.70595j) kW
+TransmissionSim: Current AC-PF TIme is 30900.0 and Next AC-OPF time is 31500.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.92 kV
+TransmissionSim: Federate Granted Time = 31200.0
+TransmissionSim: Substation Load from Distribution System = (2239.34931+1043.50224j) kW
+TransmissionSim: Current AC-PF TIme is 31200.0 and Next AC-OPF time is 31500.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.9 kV
+TransmissionSim: Federate Granted Time = 31500.0
+TransmissionSim: Substation Load from Distribution System = (2233.36928+1041.39584j) kW
+TransmissionSim: Current AC-PF TIme is 31500.0 and Next AC-OPF time is 31500.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.82 kV
+TransmissionSim: Federate Granted Time = 31800.0
+TransmissionSim: Substation Load from Distribution System = (2302.34108+1062.70501j) kW
+TransmissionSim: Current AC-PF TIme is 31800.0 and Next AC-OPF time is 32400.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.77 kV
+TransmissionSim: Federate Granted Time = 32100.0
+TransmissionSim: Substation Load from Distribution System = (2323.70373+1069.44745j) kW
+TransmissionSim: Current AC-PF TIme is 32100.0 and Next AC-OPF time is 32400.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.76 kV
+TransmissionSim: Federate Granted Time = 32400.0
+TransmissionSim: Substation Load from Distribution System = (2352.40696+1078.46461j) kW
+TransmissionSim: Current AC-PF TIme is 32400.0 and Next AC-OPF time is 32400.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.65 kV
+TransmissionSim: Federate Granted Time = 32700.0
+TransmissionSim: Substation Load from Distribution System = (2401.98092+1093.66928j) kW
+TransmissionSim: Current AC-PF TIme is 32700.0 and Next AC-OPF time is 33300.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.62 kV
+TransmissionSim: Federate Granted Time = 33000.0
+TransmissionSim: Substation Load from Distribution System = (2366.99844+1082.51415j) kW
+TransmissionSim: Current AC-PF TIme is 33000.0 and Next AC-OPF time is 33300.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.64 kV
+TransmissionSim: Federate Granted Time = 33300.0
+TransmissionSim: Substation Load from Distribution System = (2390.63295+1089.94452j) kW
+TransmissionSim: Current AC-PF TIme is 33300.0 and Next AC-OPF time is 33300.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.55 kV
+TransmissionSim: Federate Granted Time = 33600.0
+TransmissionSim: Substation Load from Distribution System = (2439.97066+1105.55388j) kW
+TransmissionSim: Current AC-PF TIme is 33600.0 and Next AC-OPF time is 34200.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.52 kV
+TransmissionSim: Federate Granted Time = 33900.0
+TransmissionSim: Substation Load from Distribution System = (2428.7321+1101.7043700000002j) kW
+TransmissionSim: Current AC-PF TIme is 33900.0 and Next AC-OPF time is 34200.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.52 kV
+TransmissionSim: Federate Granted Time = 34200.0
+TransmissionSim: Substation Load from Distribution System = (2509.5437599999996+1127.4366599999998j) kW
+TransmissionSim: Current AC-PF TIme is 34200.0 and Next AC-OPF time is 34200.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.26 kV
+TransmissionSim: Federate Granted Time = 34500.0
+TransmissionSim: Substation Load from Distribution System = (2555.7757+1143.6392700000001j) kW
+TransmissionSim: Current AC-PF TIme is 34500.0 and Next AC-OPF time is 35100.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.23 kV
+TransmissionSim: Federate Granted Time = 34800.0
+TransmissionSim: Substation Load from Distribution System = (2457.61352+1112.35174j) kW
+TransmissionSim: Current AC-PF TIme is 34800.0 and Next AC-OPF time is 35100.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.29 kV
+TransmissionSim: Federate Granted Time = 35100.0
+TransmissionSim: Substation Load from Distribution System = (2524.5476400000002+1133.18466j) kW
+TransmissionSim: Current AC-PF TIme is 35100.0 and Next AC-OPF time is 35100.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.1 kV
+TransmissionSim: Federate Granted Time = 35400.0
+TransmissionSim: Substation Load from Distribution System = (2606.7903300000003+1159.45496j) kW
+TransmissionSim: Current AC-PF TIme is 35400.0 and Next AC-OPF time is 36000.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.04 kV
+TransmissionSim: Federate Granted Time = 35700.0
+TransmissionSim: Substation Load from Distribution System = (2639.06596+1169.62984j) kW
+TransmissionSim: Current AC-PF TIme is 35700.0 and Next AC-OPF time is 36000.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.02 kV
+TransmissionSim: Federate Granted Time = 36000.0
+TransmissionSim: Substation Load from Distribution System = (2633.03628+1167.42298j) kW
+TransmissionSim: Current AC-PF TIme is 36000.0 and Next AC-OPF time is 36000.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.86 kV
+TransmissionSim: Federate Granted Time = 36300.0
+TransmissionSim: Substation Load from Distribution System = (2605.29568+1158.4211699999998j) kW
+TransmissionSim: Current AC-PF TIme is 36300.0 and Next AC-OPF time is 36900.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.87 kV
+TransmissionSim: Federate Granted Time = 36600.0
+TransmissionSim: Substation Load from Distribution System = (2627.72248+1165.8416000000002j) kW
+TransmissionSim: Current AC-PF TIme is 36600.0 and Next AC-OPF time is 36900.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.85 kV
+TransmissionSim: Federate Granted Time = 36900.0
+TransmissionSim: Substation Load from Distribution System = (2678.90041+1181.95095j) kW
+TransmissionSim: Current AC-PF TIme is 36900.0 and Next AC-OPF time is 36900.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.5 kV
+TransmissionSim: Federate Granted Time = 37200.0
+TransmissionSim: Substation Load from Distribution System = (2711.81989+1192.63546j) kW
+TransmissionSim: Current AC-PF TIme is 37200.0 and Next AC-OPF time is 37800.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.48 kV
+TransmissionSim: Federate Granted Time = 37500.0
+TransmissionSim: Substation Load from Distribution System = (2712.2423799999997+1192.48291j) kW
+TransmissionSim: Current AC-PF TIme is 37500.0 and Next AC-OPF time is 37800.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.47 kV
+TransmissionSim: Federate Granted Time = 37800.0
+TransmissionSim: Substation Load from Distribution System = (2713.64867+1192.93295j) kW
+TransmissionSim: Current AC-PF TIme is 37800.0 and Next AC-OPF time is 37800.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.28 kV
+TransmissionSim: Federate Granted Time = 38100.0
+TransmissionSim: Substation Load from Distribution System = (2715.6299599999998+1194.51186j) kW
+TransmissionSim: Current AC-PF TIme is 38100.0 and Next AC-OPF time is 38700.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.28 kV
+TransmissionSim: Federate Granted Time = 38400.0
+TransmissionSim: Substation Load from Distribution System = (2875.44506+1246.54557j) kW
+TransmissionSim: Current AC-PF TIme is 38400.0 and Next AC-OPF time is 38700.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.17 kV
+TransmissionSim: Federate Granted Time = 38700.0
+TransmissionSim: Substation Load from Distribution System = (2863.2314+1242.12801j) kW
+TransmissionSim: Current AC-PF TIme is 38700.0 and Next AC-OPF time is 38700.0
+TransmissionSim: Substation Voltage to the Distribution System = 140.83 kV
+TransmissionSim: Federate Granted Time = 39000.0
+TransmissionSim: Substation Load from Distribution System = (2816.95156+1226.96913j) kW
+TransmissionSim: Current AC-PF TIme is 39000.0 and Next AC-OPF time is 39600.0
+TransmissionSim: Substation Voltage to the Distribution System = 140.85 kV
+TransmissionSim: Federate Granted Time = 39300.0
+TransmissionSim: Substation Load from Distribution System = (2856.43285+1239.89983j) kW
+TransmissionSim: Current AC-PF TIme is 39300.0 and Next AC-OPF time is 39600.0
+TransmissionSim: Substation Voltage to the Distribution System = 140.83 kV
+TransmissionSim: Federate Granted Time = 39600.0
+TransmissionSim: Substation Load from Distribution System = (2887.3373300000003+1249.95903j) kW
+TransmissionSim: Current AC-PF TIme is 39600.0 and Next AC-OPF time is 39600.0
+TransmissionSim: Substation Voltage to the Distribution System = 140.69 kV
+TransmissionSim: Federate Granted Time = 39900.0
+TransmissionSim: Substation Load from Distribution System = (2890.69809+1251.4523000000002j) kW
+TransmissionSim: Current AC-PF TIme is 39900.0 and Next AC-OPF time is 40500.0
+TransmissionSim: Substation Voltage to the Distribution System = 140.68 kV
+TransmissionSim: Federate Granted Time = 40200.0
+TransmissionSim: Substation Load from Distribution System = (2871.4792+1244.6855j) kW
+TransmissionSim: Current AC-PF TIme is 40200.0 and Next AC-OPF time is 40500.0
+TransmissionSim: Substation Voltage to the Distribution System = 140.69 kV
+TransmissionSim: Federate Granted Time = 40500.0
+TransmissionSim: Substation Load from Distribution System = (2902.76089+1254.9636799999998j) kW
+TransmissionSim: Current AC-PF TIme is 40500.0 and Next AC-OPF time is 40500.0
+TransmissionSim: Substation Voltage to the Distribution System = 140.43 kV
+TransmissionSim: Federate Granted Time = 40800.0
+TransmissionSim: Substation Load from Distribution System = (3056.9212599999996+1307.13494j) kW
+TransmissionSim: Current AC-PF TIme is 40800.0 and Next AC-OPF time is 41400.0
+TransmissionSim: Substation Voltage to the Distribution System = 140.33 kV
+TransmissionSim: Federate Granted Time = 41100.0
+TransmissionSim: Substation Load from Distribution System = (3086.798+1316.68453j) kW
+TransmissionSim: Current AC-PF TIme is 41100.0 and Next AC-OPF time is 41400.0
+TransmissionSim: Substation Voltage to the Distribution System = 140.3 kV
+TransmissionSim: Federate Granted Time = 41400.0
+TransmissionSim: Substation Load from Distribution System = (3048.1058599999997+1303.7223999999999j) kW
+TransmissionSim: Current AC-PF TIme is 41400.0 and Next AC-OPF time is 41400.0
+TransmissionSim: Substation Voltage to the Distribution System = 139.95 kV
+TransmissionSim: Federate Granted Time = 41700.0
+TransmissionSim: Substation Load from Distribution System = (3049.70914+1304.29516j) kW
+TransmissionSim: Current AC-PF TIme is 41700.0 and Next AC-OPF time is 42300.0
+TransmissionSim: Substation Voltage to the Distribution System = 139.94 kV
+TransmissionSim: Federate Granted Time = 42000.0
+TransmissionSim: Substation Load from Distribution System = (3011.16081+1291.23398j) kW
+TransmissionSim: Current AC-PF TIme is 42000.0 and Next AC-OPF time is 42300.0
+TransmissionSim: Substation Voltage to the Distribution System = 139.96 kV
+TransmissionSim: Federate Granted Time = 42300.0
+TransmissionSim: Substation Load from Distribution System = (3057.2987799999996+1306.1204599999999j) kW
+TransmissionSim: Current AC-PF TIme is 42300.0 and Next AC-OPF time is 42300.0
+TransmissionSim: Substation Voltage to the Distribution System = 139.76 kV
+TransmissionSim: Federate Granted Time = 42600.0
+TransmissionSim: Substation Load from Distribution System = (3172.3449+1345.71454j) kW
+TransmissionSim: Current AC-PF TIme is 42600.0 and Next AC-OPF time is 43200.0
+TransmissionSim: Substation Voltage to the Distribution System = 139.68 kV
+TransmissionSim: Federate Granted Time = 42900.0
+TransmissionSim: Substation Load from Distribution System = (3187.5708799999998+1350.91081j) kW
+TransmissionSim: Current AC-PF TIme is 42900.0 and Next AC-OPF time is 43200.0
+TransmissionSim: Substation Voltage to the Distribution System = 139.67 kV
+TransmissionSim: Federate Granted Time = 43200.0
+TransmissionSim: Substation Load from Distribution System = (3160.96553+1340.97379j) kW
+TransmissionSim: Current AC-PF TIme is 43200.0 and Next AC-OPF time is 43200.0
+TransmissionSim: Substation Voltage to the Distribution System = 139.34 kV
+TransmissionSim: Federate Granted Time = 43500.0
+TransmissionSim: Substation Load from Distribution System = (3190.0839300000002+1351.91915j) kW
+TransmissionSim: Current AC-PF TIme is 43500.0 and Next AC-OPF time is 44100.0
+TransmissionSim: Substation Voltage to the Distribution System = 139.31 kV
+TransmissionSim: Federate Granted Time = 43800.0
+TransmissionSim: Substation Load from Distribution System = (3201.6035+1354.82402j) kW
+TransmissionSim: Current AC-PF TIme is 43800.0 and Next AC-OPF time is 44100.0
+TransmissionSim: Substation Voltage to the Distribution System = 139.31 kV
+TransmissionSim: Federate Granted Time = 44100.0
+TransmissionSim: Substation Load from Distribution System = (3234.52931+1365.9273999999998j) kW
+TransmissionSim: Current AC-PF TIme is 44100.0 and Next AC-OPF time is 44100.0
+TransmissionSim: Substation Voltage to the Distribution System = 139.23 kV
+TransmissionSim: Federate Granted Time = 44400.0
+TransmissionSim: Substation Load from Distribution System = (3338.40337+1401.81305j) kW
+TransmissionSim: Current AC-PF TIme is 44400.0 and Next AC-OPF time is 45000.0
+TransmissionSim: Substation Voltage to the Distribution System = 139.16 kV
+TransmissionSim: Federate Granted Time = 44700.0
+TransmissionSim: Substation Load from Distribution System = (3296.90111+1387.59351j) kW
+TransmissionSim: Current AC-PF TIme is 44700.0 and Next AC-OPF time is 45000.0
+TransmissionSim: Substation Voltage to the Distribution System = 139.19 kV
+TransmissionSim: Federate Granted Time = 45000.0
+TransmissionSim: Substation Load from Distribution System = (3398.86528+1423.46156j) kW
+TransmissionSim: Current AC-PF TIme is 45000.0 and Next AC-OPF time is 45000.0
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+TransmissionSim: Substation Voltage to the Distribution System = 138.83 kV
+TransmissionSim: Federate Granted Time = 45300.0
+TransmissionSim: Substation Load from Distribution System = (3380.43958+1416.59782j) kW
+TransmissionSim: Current AC-PF TIme is 45300.0 and Next AC-OPF time is 45900.0
+TransmissionSim: Substation Voltage to the Distribution System = 138.84 kV
+TransmissionSim: Federate Granted Time = 45600.0
+TransmissionSim: Substation Load from Distribution System = (3365.47909+1411.021j) kW
+TransmissionSim: Current AC-PF TIme is 45600.0 and Next AC-OPF time is 45900.0
+TransmissionSim: Substation Voltage to the Distribution System = 138.86 kV
+TransmissionSim: Federate Granted Time = 45900.0
+TransmissionSim: Substation Load from Distribution System = (3392.8541+1420.46811j) kW
+TransmissionSim: Current AC-PF TIme is 45900.0 and Next AC-OPF time is 45900.0
+TransmissionSim: Substation Voltage to the Distribution System = 138.64 kV
+TransmissionSim: Federate Granted Time = 46200.0
+TransmissionSim: Substation Load from Distribution System = (3472.31943+1448.6096699999998j) kW
+TransmissionSim: Current AC-PF TIme is 46200.0 and Next AC-OPF time is 46800.0
+TransmissionSim: Substation Voltage to the Distribution System = 138.59 kV
+TransmissionSim: Federate Granted Time = 46500.0
+TransmissionSim: Substation Load from Distribution System = (3529.83037+1468.82651j) kW
+TransmissionSim: Current AC-PF TIme is 46500.0 and Next AC-OPF time is 46800.0
+TransmissionSim: Substation Voltage to the Distribution System = 138.56 kV
+TransmissionSim: Federate Granted Time = 46800.0
+TransmissionSim: Substation Load from Distribution System = (3547.6244500000003+1475.15751j) kW
+TransmissionSim: Current AC-PF TIme is 46800.0 and Next AC-OPF time is 46800.0
+TransmissionSim: Substation Voltage to the Distribution System = 138.39 kV
+TransmissionSim: Federate Granted Time = 47100.0
+TransmissionSim: Substation Load from Distribution System = (3517.9638+1463.8128700000002j) kW
+TransmissionSim: Current AC-PF TIme is 47100.0 and Next AC-OPF time is 47700.0
+TransmissionSim: Substation Voltage to the Distribution System = 138.4 kV
+TransmissionSim: Federate Granted Time = 47400.0
+TransmissionSim: Substation Load from Distribution System = (3580.88994+1486.06919j) kW
+TransmissionSim: Current AC-PF TIme is 47400.0 and Next AC-OPF time is 47700.0
+TransmissionSim: Substation Voltage to the Distribution System = 138.35 kV
+TransmissionSim: Federate Granted Time = 47700.0
+TransmissionSim: Substation Load from Distribution System = (3531.91232+1469.25935j) kW
+TransmissionSim: Current AC-PF TIme is 47700.0 and Next AC-OPF time is 47700.0
+TransmissionSim: Substation Voltage to the Distribution System = 138.1 kV
+TransmissionSim: Federate Granted Time = 48000.0
+TransmissionSim: Substation Load from Distribution System = (3496.65185+1456.8977399999999j) kW
+TransmissionSim: Current AC-PF TIme is 48000.0 and Next AC-OPF time is 48600.0
+TransmissionSim: Substation Voltage to the Distribution System = 138.11 kV
+TransmissionSim: Federate Granted Time = 48300.0
+TransmissionSim: Substation Load from Distribution System = (3594.11186+1490.81202j) kW
+TransmissionSim: Current AC-PF TIme is 48300.0 and Next AC-OPF time is 48600.0
+TransmissionSim: Substation Voltage to the Distribution System = 138.04 kV
+TransmissionSim: Federate Granted Time = 48600.0
+TransmissionSim: Substation Load from Distribution System = (3502.18973+1458.5178500000002j) kW
+TransmissionSim: Current AC-PF TIme is 48600.0 and Next AC-OPF time is 48600.0
+TransmissionSim: Substation Voltage to the Distribution System = 137.91 kV
+TransmissionSim: Federate Granted Time = 48900.0
+TransmissionSim: Substation Load from Distribution System = (3457.2899199999997+1443.89219j) kW
+TransmissionSim: Current AC-PF TIme is 48900.0 and Next AC-OPF time is 49500.0
+TransmissionSim: Substation Voltage to the Distribution System = 137.95 kV
+TransmissionSim: Federate Granted Time = 49200.0
+TransmissionSim: Substation Load from Distribution System = (3577.3011699999997+1485.3351200000002j) kW
+TransmissionSim: Current AC-PF TIme is 49200.0 and Next AC-OPF time is 49500.0
+TransmissionSim: Substation Voltage to the Distribution System = 137.86 kV
+TransmissionSim: Federate Granted Time = 49500.0
+TransmissionSim: Substation Load from Distribution System = (3664.5783300000003+1515.99962j) kW
+TransmissionSim: Current AC-PF TIme is 49500.0 and Next AC-OPF time is 49500.0
+TransmissionSim: Substation Voltage to the Distribution System = 137.67 kV
+TransmissionSim: Federate Granted Time = 49800.0
+TransmissionSim: Substation Load from Distribution System = (3608.90972+1496.18207j) kW
+TransmissionSim: Current AC-PF TIme is 49800.0 and Next AC-OPF time is 50400.0
+TransmissionSim: Substation Voltage to the Distribution System = 137.7 kV
+TransmissionSim: Federate Granted Time = 50100.0
+TransmissionSim: Substation Load from Distribution System = (3534.69981+1469.6353100000001j) kW
+TransmissionSim: Current AC-PF TIme is 50100.0 and Next AC-OPF time is 50400.0
+TransmissionSim: Substation Voltage to the Distribution System = 137.74 kV
+TransmissionSim: Federate Granted Time = 50400.0
+TransmissionSim: Substation Load from Distribution System = (3518.03104+1464.48574j) kW
+TransmissionSim: Current AC-PF TIme is 50400.0 and Next AC-OPF time is 50400.0
+TransmissionSim: Substation Voltage to the Distribution System = 137.5 kV
+TransmissionSim: Federate Granted Time = 50700.0
+TransmissionSim: Substation Load from Distribution System = (3632.79317+1504.21201j) kW
+TransmissionSim: Current AC-PF TIme is 50700.0 and Next AC-OPF time is 51300.0
+TransmissionSim: Substation Voltage to the Distribution System = 137.43 kV
+TransmissionSim: Federate Granted Time = 51000.0
+TransmissionSim: Substation Load from Distribution System = (3589.8349900000003+1489.56117j) kW
+TransmissionSim: Current AC-PF TIme is 51000.0 and Next AC-OPF time is 51300.0
+TransmissionSim: Substation Voltage to the Distribution System = 137.46 kV
+TransmissionSim: Federate Granted Time = 51300.0
+TransmissionSim: Substation Load from Distribution System = (3613.9875899999997+1497.98795j) kW
+TransmissionSim: Current AC-PF TIme is 51300.0 and Next AC-OPF time is 51300.0
+TransmissionSim: Substation Voltage to the Distribution System = 137.17 kV
+TransmissionSim: Federate Granted Time = 51600.0
+TransmissionSim: Substation Load from Distribution System = (3567.60898+1482.01486j) kW
+TransmissionSim: Current AC-PF TIme is 51600.0 and Next AC-OPF time is 52200.0
+TransmissionSim: Substation Voltage to the Distribution System = 137.19 kV
+TransmissionSim: Federate Granted Time = 51900.0
+TransmissionSim: Substation Load from Distribution System = (3665.44437+1515.74469j) kW
+TransmissionSim: Current AC-PF TIme is 51900.0 and Next AC-OPF time is 52200.0
+TransmissionSim: Substation Voltage to the Distribution System = 137.09 kV
+TransmissionSim: Federate Granted Time = 52200.0
+TransmissionSim: Substation Load from Distribution System = (3607.6855+1495.37594j) kW
+TransmissionSim: Current AC-PF TIme is 52200.0 and Next AC-OPF time is 52200.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.91 kV
+TransmissionSim: Federate Granted Time = 52500.0
+TransmissionSim: Substation Load from Distribution System = (3595.56606+1490.89821j) kW
+TransmissionSim: Current AC-PF TIme is 52500.0 and Next AC-OPF time is 53100.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.88 kV
+TransmissionSim: Federate Granted Time = 52800.0
+TransmissionSim: Substation Load from Distribution System = (3673.3552999999997+1518.86846j) kW
+TransmissionSim: Current AC-PF TIme is 52800.0 and Next AC-OPF time is 53100.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.83 kV
+TransmissionSim: Federate Granted Time = 53100.0
+TransmissionSim: Substation Load from Distribution System = (3673.8723+1519.22272j) kW
+TransmissionSim: Current AC-PF TIme is 53100.0 and Next AC-OPF time is 53100.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.39 kV
+TransmissionSim: Federate Granted Time = 53400.0
+TransmissionSim: Substation Load from Distribution System = (3715.25343+1533.96422j) kW
+TransmissionSim: Current AC-PF TIme is 53400.0 and Next AC-OPF time is 54000.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.35 kV
+TransmissionSim: Federate Granted Time = 53700.0
+TransmissionSim: Substation Load from Distribution System = (3676.5343900000003+1520.5164399999999j) kW
+TransmissionSim: Current AC-PF TIme is 53700.0 and Next AC-OPF time is 54000.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.35 kV
+TransmissionSim: Federate Granted Time = 54000.0
+TransmissionSim: Substation Load from Distribution System = (3683.20841+1522.86212j) kW
+TransmissionSim: Current AC-PF TIme is 54000.0 and Next AC-OPF time is 54000.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.07 kV
+TransmissionSim: Federate Granted Time = 54300.0
+TransmissionSim: Substation Load from Distribution System = (3558.39241+1478.7776399999998j) kW
+TransmissionSim: Current AC-PF TIme is 54300.0 and Next AC-OPF time is 54900.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.16 kV
+TransmissionSim: Federate Granted Time = 54600.0
+TransmissionSim: Substation Load from Distribution System = (3434.3679300000003+1435.19399j) kW
+TransmissionSim: Current AC-PF TIme is 54600.0 and Next AC-OPF time is 54900.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.22 kV
+TransmissionSim: Federate Granted Time = 54900.0
+TransmissionSim: Substation Load from Distribution System = (3510.4113199999997+1461.52125j) kW
+TransmissionSim: Current AC-PF TIme is 54900.0 and Next AC-OPF time is 54900.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.49 kV
+TransmissionSim: Federate Granted Time = 55200.0
+TransmissionSim: Substation Load from Distribution System = (3506.5582200000003+1460.11372j) kW
+TransmissionSim: Current AC-PF TIme is 55200.0 and Next AC-OPF time is 55800.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.48 kV
+TransmissionSim: Federate Granted Time = 55500.0
+TransmissionSim: Substation Load from Distribution System = (3585.1996+1487.82969j) kW
+TransmissionSim: Current AC-PF TIme is 55500.0 and Next AC-OPF time is 55800.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.41 kV
+TransmissionSim: Federate Granted Time = 55800.0
+TransmissionSim: Substation Load from Distribution System = (3602.15109+1493.6141699999998j) kW
+TransmissionSim: Current AC-PF TIme is 55800.0 and Next AC-OPF time is 55800.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.36 kV
+TransmissionSim: Federate Granted Time = 56100.0
+TransmissionSim: Substation Load from Distribution System = (3367.97958+1412.03827j) kW
+TransmissionSim: Current AC-PF TIme is 56100.0 and Next AC-OPF time is 56700.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.53 kV
+TransmissionSim: Federate Granted Time = 56400.0
+TransmissionSim: Substation Load from Distribution System = (3615.43597+1498.22595j) kW
+TransmissionSim: Current AC-PF TIme is 56400.0 and Next AC-OPF time is 56700.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.36 kV
+TransmissionSim: Federate Granted Time = 56700.0
+TransmissionSim: Substation Load from Distribution System = (3559.20405+1479.19623j) kW
+TransmissionSim: Current AC-PF TIme is 56700.0 and Next AC-OPF time is 56700.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.48 kV
+TransmissionSim: Federate Granted Time = 57000.0
+TransmissionSim: Substation Load from Distribution System = (3531.46567+1468.89394j) kW
+TransmissionSim: Current AC-PF TIme is 57000.0 and Next AC-OPF time is 57600.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.5 kV
+TransmissionSim: Federate Granted Time = 57300.0
+TransmissionSim: Substation Load from Distribution System = (3484.28771+1452.1361200000001j) kW
+TransmissionSim: Current AC-PF TIme is 57300.0 and Next AC-OPF time is 57600.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.55 kV
+TransmissionSim: Federate Granted Time = 57600.0
+TransmissionSim: Substation Load from Distribution System = (3560.61898+1479.16172j) kW
+TransmissionSim: Current AC-PF TIme is 57600.0 and Next AC-OPF time is 57600.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.31 kV
+TransmissionSim: Federate Granted Time = 57900.0
+TransmissionSim: Substation Load from Distribution System = (3629.748+1503.69029j) kW
+TransmissionSim: Current AC-PF TIme is 57900.0 and Next AC-OPF time is 58500.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.28 kV
+TransmissionSim: Federate Granted Time = 58200.0
+TransmissionSim: Substation Load from Distribution System = (3451.75092+1440.88845j) kW
+TransmissionSim: Current AC-PF TIme is 58200.0 and Next AC-OPF time is 58500.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.38 kV
+TransmissionSim: Federate Granted Time = 58500.0
+TransmissionSim: Substation Load from Distribution System = (3574.81775+1483.6388100000001j) kW
+TransmissionSim: Current AC-PF TIme is 58500.0 and Next AC-OPF time is 58500.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.22 kV
+TransmissionSim: Federate Granted Time = 58800.0
+TransmissionSim: Substation Load from Distribution System = (3618.4660299999996+1499.63236j) kW
+TransmissionSim: Current AC-PF TIme is 58800.0 and Next AC-OPF time is 59400.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.2 kV
+TransmissionSim: Federate Granted Time = 59100.0
+TransmissionSim: Substation Load from Distribution System = (3369.9760699999997+1412.41147j) kW
+TransmissionSim: Current AC-PF TIme is 59100.0 and Next AC-OPF time is 59400.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.36 kV
+TransmissionSim: Federate Granted Time = 59400.0
+TransmissionSim: Substation Load from Distribution System = (3638.15415+1506.6861999999999j) kW
+TransmissionSim: Current AC-PF TIme is 59400.0 and Next AC-OPF time is 59400.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.35 kV
+TransmissionSim: Federate Granted Time = 59700.0
+TransmissionSim: Substation Load from Distribution System = (3561.12647+1479.84834j) kW
+TransmissionSim: Current AC-PF TIme is 59700.0 and Next AC-OPF time is 60300.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.42 kV
+TransmissionSim: Federate Granted Time = 60000.0
+TransmissionSim: Substation Load from Distribution System = (3522.6348199999998+1465.75175j) kW
+TransmissionSim: Current AC-PF TIme is 60000.0 and Next AC-OPF time is 60300.0
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+TransmissionSim: Substation Voltage to the Distribution System = 136.43 kV
+TransmissionSim: Federate Granted Time = 60300.0
+TransmissionSim: Substation Load from Distribution System = (3438.8407599999996+1436.40339j) kW
+TransmissionSim: Current AC-PF TIme is 60300.0 and Next AC-OPF time is 60300.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.6 kV
+TransmissionSim: Federate Granted Time = 60600.0
+TransmissionSim: Substation Load from Distribution System = (3459.58569+1443.7843500000001j) kW
+TransmissionSim: Current AC-PF TIme is 60600.0 and Next AC-OPF time is 61200.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.6 kV
+TransmissionSim: Federate Granted Time = 60900.0
+TransmissionSim: Substation Load from Distribution System = (3479.6032200000004+1451.1523j) kW
+TransmissionSim: Current AC-PF TIme is 60900.0 and Next AC-OPF time is 61200.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.59 kV
+TransmissionSim: Federate Granted Time = 61200.0
+TransmissionSim: Substation Load from Distribution System = (3336.5526800000002+1401.6324399999999j) kW
+TransmissionSim: Current AC-PF TIme is 61200.0 and Next AC-OPF time is 61200.0
+TransmissionSim: Substation Voltage to the Distribution System = 137.17 kV
+TransmissionSim: Federate Granted Time = 61500.0
+TransmissionSim: Substation Load from Distribution System = (3386.60206+1419.20973j) kW
+TransmissionSim: Current AC-PF TIme is 61500.0 and Next AC-OPF time is 62100.0
+TransmissionSim: Substation Voltage to the Distribution System = 137.13 kV
+TransmissionSim: Federate Granted Time = 61800.0
+TransmissionSim: Substation Load from Distribution System = (3313.33403+1393.97556j) kW
+TransmissionSim: Current AC-PF TIme is 61800.0 and Next AC-OPF time is 62100.0
+TransmissionSim: Substation Voltage to the Distribution System = 137.17 kV
+TransmissionSim: Federate Granted Time = 62100.0
+TransmissionSim: Substation Load from Distribution System = (3413.01391+1427.71594j) kW
+TransmissionSim: Current AC-PF TIme is 62100.0 and Next AC-OPF time is 62100.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.46 kV
+TransmissionSim: Federate Granted Time = 62400.0
+TransmissionSim: Substation Load from Distribution System = (3221.15833+1362.39105j) kW
+TransmissionSim: Current AC-PF TIme is 62400.0 and Next AC-OPF time is 63000.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.6 kV
+TransmissionSim: Federate Granted Time = 62700.0
+TransmissionSim: Substation Load from Distribution System = (3370.62552+1413.0732j) kW
+TransmissionSim: Current AC-PF TIme is 62700.0 and Next AC-OPF time is 63000.0
+TransmissionSim: Substation Voltage to the Distribution System = 136.5 kV
+TransmissionSim: Federate Granted Time = 63000.0
+TransmissionSim: Substation Load from Distribution System = (3156.8122000000003+1339.92806j) kW
+TransmissionSim: Current AC-PF TIme is 63000.0 and Next AC-OPF time is 63000.0
+TransmissionSim: Substation Voltage to the Distribution System = 137.23 kV
+TransmissionSim: Federate Granted Time = 63300.0
+TransmissionSim: Substation Load from Distribution System = (3327.84284+1398.84574j) kW
+TransmissionSim: Current AC-PF TIme is 63300.0 and Next AC-OPF time is 63900.0
+TransmissionSim: Substation Voltage to the Distribution System = 137.13 kV
+TransmissionSim: Federate Granted Time = 63600.0
+TransmissionSim: Substation Load from Distribution System = (3136.39215+1334.09897j) kW
+TransmissionSim: Current AC-PF TIme is 63600.0 and Next AC-OPF time is 63900.0
+TransmissionSim: Substation Voltage to the Distribution System = 137.27 kV
+TransmissionSim: Federate Granted Time = 63900.0
+TransmissionSim: Substation Load from Distribution System = (3125.28655+1330.63623j) kW
+TransmissionSim: Current AC-PF TIme is 63900.0 and Next AC-OPF time is 63900.0
+TransmissionSim: Substation Voltage to the Distribution System = 138.15 kV
+TransmissionSim: Federate Granted Time = 64200.0
+TransmissionSim: Substation Load from Distribution System = (3211.29043+1359.67824j) kW
+TransmissionSim: Current AC-PF TIme is 64200.0 and Next AC-OPF time is 64800.0
+TransmissionSim: Substation Voltage to the Distribution System = 138.09 kV
+TransmissionSim: Federate Granted Time = 64500.0
+TransmissionSim: Substation Load from Distribution System = (3072.8668399999997+1313.2176299999999j) kW
+TransmissionSim: Current AC-PF TIme is 64500.0 and Next AC-OPF time is 64800.0
+TransmissionSim: Substation Voltage to the Distribution System = 138.2 kV
+TransmissionSim: Federate Granted Time = 64800.0
+TransmissionSim: Substation Load from Distribution System = (3139.6769900000004+1335.6116299999999j) kW
+TransmissionSim: Current AC-PF TIme is 64800.0 and Next AC-OPF time is 64800.0
+TransmissionSim: Substation Voltage to the Distribution System = 138.53 kV
+TransmissionSim: Federate Granted Time = 65100.0
+TransmissionSim: Substation Load from Distribution System = (3253.05109+1373.4414199999999j) kW
+TransmissionSim: Current AC-PF TIme is 65100.0 and Next AC-OPF time is 65700.0
+TransmissionSim: Substation Voltage to the Distribution System = 138.47 kV
+TransmissionSim: Federate Granted Time = 65400.0
+TransmissionSim: Substation Load from Distribution System = (3010.1803999999997+1291.75285j) kW
+TransmissionSim: Current AC-PF TIme is 65400.0 and Next AC-OPF time is 65700.0
+TransmissionSim: Substation Voltage to the Distribution System = 138.62 kV
+TransmissionSim: Federate Granted Time = 65700.0
+TransmissionSim: Substation Load from Distribution System = (2977.00098+1280.21794j) kW
+TransmissionSim: Current AC-PF TIme is 65700.0 and Next AC-OPF time is 65700.0
+TransmissionSim: Substation Voltage to the Distribution System = 139.21 kV
+TransmissionSim: Federate Granted Time = 66000.0
+TransmissionSim: Substation Load from Distribution System = (2994.4553300000002+1287.19646j) kW
+TransmissionSim: Current AC-PF TIme is 66000.0 and Next AC-OPF time is 66600.0
+TransmissionSim: Substation Voltage to the Distribution System = 139.2 kV
+TransmissionSim: Federate Granted Time = 66300.0
+TransmissionSim: Substation Load from Distribution System = (2901.40957+1256.0753j) kW
+TransmissionSim: Current AC-PF TIme is 66300.0 and Next AC-OPF time is 66600.0
+TransmissionSim: Substation Voltage to the Distribution System = 139.27 kV
+TransmissionSim: Federate Granted Time = 66600.0
+TransmissionSim: Substation Load from Distribution System = (2893.7076899999997+1254.16346j) kW
+TransmissionSim: Current AC-PF TIme is 66600.0 and Next AC-OPF time is 66600.0
+TransmissionSim: Substation Voltage to the Distribution System = 139.5 kV
+TransmissionSim: Federate Granted Time = 66900.0
+TransmissionSim: Substation Load from Distribution System = (2940.82364+1268.41198j) kW
+TransmissionSim: Current AC-PF TIme is 66900.0 and Next AC-OPF time is 67500.0
+TransmissionSim: Substation Voltage to the Distribution System = 139.47 kV
+TransmissionSim: Federate Granted Time = 67200.0
+TransmissionSim: Substation Load from Distribution System = (2867.30005+1245.01767j) kW
+TransmissionSim: Current AC-PF TIme is 67200.0 and Next AC-OPF time is 67500.0
+TransmissionSim: Substation Voltage to the Distribution System = 139.53 kV
+TransmissionSim: Federate Granted Time = 67500.0
+TransmissionSim: Substation Load from Distribution System = (2641.0915499999996+1171.42611j) kW
+TransmissionSim: Current AC-PF TIme is 67500.0 and Next AC-OPF time is 67500.0
+TransmissionSim: Substation Voltage to the Distribution System = 139.99 kV
+TransmissionSim: Federate Granted Time = 67800.0
+TransmissionSim: Substation Load from Distribution System = (2692.81027+1189.0071699999999j) kW
+TransmissionSim: Current AC-PF TIme is 67800.0 and Next AC-OPF time is 68400.0
+TransmissionSim: Substation Voltage to the Distribution System = 139.96 kV
+TransmissionSim: Federate Granted Time = 68100.0
+TransmissionSim: Substation Load from Distribution System = (2649.36496+1174.8835j) kW
+TransmissionSim: Current AC-PF TIme is 68100.0 and Next AC-OPF time is 68400.0
+TransmissionSim: Substation Voltage to the Distribution System = 140.0 kV
+TransmissionSim: Federate Granted Time = 68400.0
+TransmissionSim: Substation Load from Distribution System = (2594.54963+1157.32414j) kW
+TransmissionSim: Current AC-PF TIme is 68400.0 and Next AC-OPF time is 68400.0
+TransmissionSim: Substation Voltage to the Distribution System = 140.38 kV
+TransmissionSim: Federate Granted Time = 68700.0
+TransmissionSim: Substation Load from Distribution System = (2534.69303+1137.83283j) kW
+TransmissionSim: Current AC-PF TIme is 68700.0 and Next AC-OPF time is 69300.0
+TransmissionSim: Substation Voltage to the Distribution System = 140.4 kV
+TransmissionSim: Federate Granted Time = 69000.0
+TransmissionSim: Substation Load from Distribution System = (2329.6494+1073.17827j) kW
+TransmissionSim: Current AC-PF TIme is 69000.0 and Next AC-OPF time is 69300.0
+TransmissionSim: Substation Voltage to the Distribution System = 140.54 kV
+TransmissionSim: Federate Granted Time = 69300.0
+TransmissionSim: Substation Load from Distribution System = (2408.06403+1097.7421299999999j) kW
+TransmissionSim: Current AC-PF TIme is 69300.0 and Next AC-OPF time is 69300.0
+TransmissionSim: Substation Voltage to the Distribution System = 140.7 kV
+TransmissionSim: Federate Granted Time = 69600.0
+TransmissionSim: Substation Load from Distribution System = (2500.1091800000004+1127.125j) kW
+TransmissionSim: Current AC-PF TIme is 69600.0 and Next AC-OPF time is 70200.0
+TransmissionSim: Substation Voltage to the Distribution System = 140.66 kV
+TransmissionSim: Federate Granted Time = 69900.0
+TransmissionSim: Substation Load from Distribution System = (2406.0098199999998+1097.5837j) kW
+TransmissionSim: Current AC-PF TIme is 69900.0 and Next AC-OPF time is 70200.0
+TransmissionSim: Substation Voltage to the Distribution System = 140.7 kV
+TransmissionSim: Federate Granted Time = 70200.0
+TransmissionSim: Substation Load from Distribution System = (2393.8275+1093.51625j) kW
+TransmissionSim: Current AC-PF TIme is 70200.0 and Next AC-OPF time is 70200.0
+TransmissionSim: Substation Voltage to the Distribution System = 140.79 kV
+TransmissionSim: Federate Granted Time = 70500.0
+TransmissionSim: Substation Load from Distribution System = (2395.10433+1093.90448j) kW
+TransmissionSim: Current AC-PF TIme is 70500.0 and Next AC-OPF time is 71100.0
+TransmissionSim: Substation Voltage to the Distribution System = 140.81 kV
+TransmissionSim: Federate Granted Time = 70800.0
+TransmissionSim: Substation Load from Distribution System = (2468.87566+1117.36476j) kW
+TransmissionSim: Current AC-PF TIme is 70800.0 and Next AC-OPF time is 71100.0
+TransmissionSim: Substation Voltage to the Distribution System = 140.75 kV
+TransmissionSim: Federate Granted Time = 71100.0
+TransmissionSim: Substation Load from Distribution System = (2314.24561+1069.38824j) kW
+TransmissionSim: Current AC-PF TIme is 71100.0 and Next AC-OPF time is 71100.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.08 kV
+TransmissionSim: Federate Granted Time = 71400.0
+TransmissionSim: Substation Load from Distribution System = (2310.3379+1066.5028200000002j) kW
+TransmissionSim: Current AC-PF TIme is 71400.0 and Next AC-OPF time is 72000.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.08 kV
+TransmissionSim: Federate Granted Time = 71700.0
+TransmissionSim: Substation Load from Distribution System = (2399.5022599999998+1095.2008999999998j) kW
+TransmissionSim: Current AC-PF TIme is 71700.0 and Next AC-OPF time is 72000.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.03 kV
+TransmissionSim: Federate Granted Time = 72000.0
+TransmissionSim: Substation Load from Distribution System = (2249.95064+1048.15323j) kW
+TransmissionSim: Current AC-PF TIme is 72000.0 and Next AC-OPF time is 72000.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.06 kV
+TransmissionSim: Federate Granted Time = 72300.0
+TransmissionSim: Substation Load from Distribution System = (2317.7145+1068.8834399999998j) kW
+TransmissionSim: Current AC-PF TIme is 72300.0 and Next AC-OPF time is 72900.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.04 kV
+TransmissionSim: Federate Granted Time = 72600.0
+TransmissionSim: Substation Load from Distribution System = (2249.24222+1047.9382j) kW
+TransmissionSim: Current AC-PF TIme is 72600.0 and Next AC-OPF time is 72900.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.08 kV
+TransmissionSim: Federate Granted Time = 72900.0
+TransmissionSim: Substation Load from Distribution System = (2270.96774+1054.99304j) kW
+TransmissionSim: Current AC-PF TIme is 72900.0 and Next AC-OPF time is 72900.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.47 kV
+TransmissionSim: Federate Granted Time = 73200.0
+TransmissionSim: Substation Load from Distribution System = (2263.9243300000003+1053.16718j) kW
+TransmissionSim: Current AC-PF TIme is 73200.0 and Next AC-OPF time is 73800.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.48 kV
+TransmissionSim: Federate Granted Time = 73500.0
+TransmissionSim: Substation Load from Distribution System = (2217.60488+1038.6614j) kW
+TransmissionSim: Current AC-PF TIme is 73500.0 and Next AC-OPF time is 73800.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.51 kV
+TransmissionSim: Federate Granted Time = 73800.0
+TransmissionSim: Substation Load from Distribution System = (2297.53371+1063.4995700000002j) kW
+TransmissionSim: Current AC-PF TIme is 73800.0 and Next AC-OPF time is 73800.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.54 kV
+TransmissionSim: Federate Granted Time = 74100.0
+TransmissionSim: Substation Load from Distribution System = (2244.19411+1047.07039j) kW
+TransmissionSim: Current AC-PF TIme is 74100.0 and Next AC-OPF time is 74700.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.57 kV
+TransmissionSim: Federate Granted Time = 74400.0
+TransmissionSim: Substation Load from Distribution System = (2266.43167+1053.99049j) kW
+TransmissionSim: Current AC-PF TIme is 74400.0 and Next AC-OPF time is 74700.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.56 kV
+TransmissionSim: Federate Granted Time = 74700.0
+TransmissionSim: Substation Load from Distribution System = (2287.0254900000004+1060.41777j) kW
+TransmissionSim: Current AC-PF TIme is 74700.0 and Next AC-OPF time is 74700.0
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 3 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023TransmissionSim: Substation Voltage to the Distribution System = 141.55 kV
+TransmissionSim: Federate Granted Time = 75000.0
+TransmissionSim: Substation Load from Distribution System = (2246.28361+1047.8521700000001j) kW
+TransmissionSim: Current AC-PF TIme is 75000.0 and Next AC-OPF time is 75600.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.57 kV
+TransmissionSim: Federate Granted Time = 75300.0
+TransmissionSim: Substation Load from Distribution System = (2276.0984900000003+1056.96612j) kW
+TransmissionSim: Current AC-PF TIme is 75300.0 and Next AC-OPF time is 75600.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.56 kV
+TransmissionSim: Federate Granted Time = 75600.0
+TransmissionSim: Substation Load from Distribution System = (2302.59314+1065.3274099999999j) kW
+TransmissionSim: Current AC-PF TIme is 75600.0 and Next AC-OPF time is 75600.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.75 kV
+TransmissionSim: Federate Granted Time = 75900.0
+TransmissionSim: Substation Load from Distribution System = (2196.42039+1032.94441j) kW
+TransmissionSim: Current AC-PF TIme is 75900.0 and Next AC-OPF time is 76500.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.82 kV
+TransmissionSim: Federate Granted Time = 76200.0
+TransmissionSim: Substation Load from Distribution System = (2117.48374+1009.38662j) kW
+TransmissionSim: Current AC-PF TIme is 76200.0 and Next AC-OPF time is 76500.0
+TransmissionSim: Substation Voltage to the Distribution System = 141.87 kV
+TransmissionSim: Federate Granted Time = 76500.0
+TransmissionSim: Substation Load from Distribution System = (2155.27293+1020.3608j) kW
+TransmissionSim: Current AC-PF TIme is 76500.0 and Next AC-OPF time is 76500.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.03 kV
+TransmissionSim: Federate Granted Time = 76800.0
+TransmissionSim: Substation Load from Distribution System = (2117.1230299999997+1007.1731500000001j) kW
+TransmissionSim: Current AC-PF TIme is 76800.0 and Next AC-OPF time is 77400.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.06 kV
+TransmissionSim: Federate Granted Time = 77100.0
+TransmissionSim: Substation Load from Distribution System = (2169.4183700000003+1023.27093j) kW
+TransmissionSim: Current AC-PF TIme is 77100.0 and Next AC-OPF time is 77400.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.03 kV
+TransmissionSim: Federate Granted Time = 77400.0
+TransmissionSim: Substation Load from Distribution System = (2114.19161+1006.40485j) kW
+TransmissionSim: Current AC-PF TIme is 77400.0 and Next AC-OPF time is 77400.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.24 kV
+TransmissionSim: Federate Granted Time = 77700.0
+TransmissionSim: Substation Load from Distribution System = (2057.14615+989.3003100000001j) kW
+TransmissionSim: Current AC-PF TIme is 77700.0 and Next AC-OPF time is 78300.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.28 kV
+TransmissionSim: Federate Granted Time = 78000.0
+TransmissionSim: Substation Load from Distribution System = (2052.3723600000003+988.4449000000001j) kW
+TransmissionSim: Current AC-PF TIme is 78000.0 and Next AC-OPF time is 78300.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.29 kV
+TransmissionSim: Federate Granted Time = 78300.0
+TransmissionSim: Substation Load from Distribution System = (2017.44427+977.62324j) kW
+TransmissionSim: Current AC-PF TIme is 78300.0 and Next AC-OPF time is 78300.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.55 kV
+TransmissionSim: Federate Granted Time = 78600.0
+TransmissionSim: Substation Load from Distribution System = (2019.06955+978.73636j) kW
+TransmissionSim: Current AC-PF TIme is 78600.0 and Next AC-OPF time is 79200.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.55 kV
+TransmissionSim: Federate Granted Time = 78900.0
+TransmissionSim: Substation Load from Distribution System = (2028.2301699999998+981.50572j) kW
+TransmissionSim: Current AC-PF TIme is 78900.0 and Next AC-OPF time is 79200.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.55 kV
+TransmissionSim: Federate Granted Time = 79200.0
+TransmissionSim: Substation Load from Distribution System = (2015.5481100000002+977.83349j) kW
+TransmissionSim: Current AC-PF TIme is 79200.0 and Next AC-OPF time is 79200.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.7 kV
+TransmissionSim: Federate Granted Time = 79500.0
+TransmissionSim: Substation Load from Distribution System = (2026.8648+981.1960799999999j) kW
+TransmissionSim: Current AC-PF TIme is 79500.0 and Next AC-OPF time is 80100.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.7 kV
+TransmissionSim: Federate Granted Time = 79800.0
+TransmissionSim: Substation Load from Distribution System = (1980.17008+967.5545500000001j) kW
+TransmissionSim: Current AC-PF TIme is 79800.0 and Next AC-OPF time is 80100.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.73 kV
+TransmissionSim: Federate Granted Time = 80100.0
+TransmissionSim: Substation Load from Distribution System = (1953.62328+959.15597j) kW
+TransmissionSim: Current AC-PF TIme is 80100.0 and Next AC-OPF time is 80100.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.05 kV
+TransmissionSim: Federate Granted Time = 80400.0
+TransmissionSim: Substation Load from Distribution System = (1934.2926599999998+952.462j) kW
+TransmissionSim: Current AC-PF TIme is 80400.0 and Next AC-OPF time is 81000.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.06 kV
+TransmissionSim: Federate Granted Time = 80700.0
+TransmissionSim: Substation Load from Distribution System = (1862.08702+930.46737j) kW
+TransmissionSim: Current AC-PF TIme is 80700.0 and Next AC-OPF time is 81000.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.11 kV
+TransmissionSim: Federate Granted Time = 81000.0
+TransmissionSim: Substation Load from Distribution System = (1864.7889599999999+931.6360400000001j) kW
+TransmissionSim: Current AC-PF TIme is 81000.0 and Next AC-OPF time is 81000.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.19 kV
+TransmissionSim: Federate Granted Time = 81300.0
+TransmissionSim: Substation Load from Distribution System = (1850.89545+928.17122j) kW
+TransmissionSim: Current AC-PF TIme is 81300.0 and Next AC-OPF time is 81900.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.21 kV
+TransmissionSim: Federate Granted Time = 81600.0
+TransmissionSim: Substation Load from Distribution System = (1887.8662199999999+939.3756099999999j) kW
+TransmissionSim: Current AC-PF TIme is 81600.0 and Next AC-OPF time is 81900.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.19 kV
+TransmissionSim: Federate Granted Time = 81900.0
+TransmissionSim: Substation Load from Distribution System = (1872.32644+934.1070500000001j) kW
+TransmissionSim: Current AC-PF TIme is 81900.0 and Next AC-OPF time is 81900.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.25 kV
+TransmissionSim: Federate Granted Time = 82200.0
+TransmissionSim: Substation Load from Distribution System = (1927.61319+950.4853499999999j) kW
+TransmissionSim: Current AC-PF TIme is 82200.0 and Next AC-OPF time is 82800.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.23 kV
+TransmissionSim: Federate Granted Time = 82500.0
+TransmissionSim: Substation Load from Distribution System = (1917.81322+948.09282j) kW
+TransmissionSim: Current AC-PF TIme is 82500.0 and Next AC-OPF time is 82800.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.24 kV
+TransmissionSim: Federate Granted Time = 82800.0
+TransmissionSim: Substation Load from Distribution System = (1922.19344+949.65139j) kW
+TransmissionSim: Current AC-PF TIme is 82800.0 and Next AC-OPF time is 82800.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.2 kV
+TransmissionSim: Federate Granted Time = 83100.0
+TransmissionSim: Substation Load from Distribution System = (1991.9625600000002+969.7650500000001j) kW
+TransmissionSim: Current AC-PF TIme is 83100.0 and Next AC-OPF time is 83700.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.16 kV
+TransmissionSim: Federate Granted Time = 83400.0
+TransmissionSim: Substation Load from Distribution System = (2016.43672+976.74222j) kW
+TransmissionSim: Current AC-PF TIme is 83400.0 and Next AC-OPF time is 83700.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.15 kV
+TransmissionSim: Federate Granted Time = 83700.0
+TransmissionSim: Substation Load from Distribution System = (2013.70426+976.51383j) kW
+TransmissionSim: Current AC-PF TIme is 83700.0 and Next AC-OPF time is 83700.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.11 kV
+TransmissionSim: Federate Granted Time = 84000.0
+TransmissionSim: Substation Load from Distribution System = (1955.65517+959.23486j) kW
+TransmissionSim: Current AC-PF TIme is 84000.0 and Next AC-OPF time is 84600.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.14 kV
+TransmissionSim: Federate Granted Time = 84300.0
+TransmissionSim: Substation Load from Distribution System = (2072.79262+994.23884j) kW
+TransmissionSim: Current AC-PF TIme is 84300.0 and Next AC-OPF time is 84600.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.08 kV
+TransmissionSim: Federate Granted Time = 84600.0
+TransmissionSim: Substation Load from Distribution System = (1940.00559+953.98256j) kW
+TransmissionSim: Current AC-PF TIme is 84600.0 and Next AC-OPF time is 84600.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.03 kV
+TransmissionSim: Federate Granted Time = 84900.0
+TransmissionSim: Substation Load from Distribution System = (2008.9608999999998+974.73656j) kW
+TransmissionSim: Current AC-PF TIme is 84900.0 and Next AC-OPF time is 85500.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.99 kV
+TransmissionSim: Federate Granted Time = 85200.0
+TransmissionSim: Substation Load from Distribution System = (1963.92214+961.36569j) kW
+TransmissionSim: Current AC-PF TIme is 85200.0 and Next AC-OPF time is 85500.0
+TransmissionSim: Substation Voltage to the Distribution System = 143.03 kV
+TransmissionSim: Federate Granted Time = 85500.0
+TransmissionSim: Substation Load from Distribution System = (1911.64885+945.6134300000001j) kW
+TransmissionSim: Current AC-PF TIme is 85500.0 and Next AC-OPF time is 85500.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.89 kV
+TransmissionSim: Federate Granted Time = 85800.0
+TransmissionSim: Substation Load from Distribution System = (1903.12761+942.7241j) kW
+TransmissionSim: Current AC-PF TIme is 85800.0 and Next AC-OPF time is 86400.0
+TransmissionSim: Substation Voltage to the Distribution System = 142.9 kV
+TransmissionSim: Federate Granted Time = 86100.0
+TransmissionSim: Substation Load from Distribution System = (1843.17299+924.38251j) kW
+TransmissionSim: Current AC-PF TIme is 86100.0 and Next AC-OPF time is 86400.0
+TransmissionSim: Destroying federate
+TransmissionSim: Done!
+ -- AC Power Flow (Newton)
+
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 1 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Optimal Power Flow
+Python Interior Point Solver - PIPS, Version 1.0, 07-Feb-2011
+Converged!
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.
+PYPOWER Version 5.1.16, 05-March-2023 -- AC Power Flow (Newton)
+
+
+Newton's method power flow converged in 2 iterations.

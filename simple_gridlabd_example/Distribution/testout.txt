@@ -1,0 +1,2936 @@
+Unsupported at timestamp 1377676800 - 2013-08-28 00:00:00 =
+
+Phases B and C on node network_node
+Phases B and C on node n13
+Phases B and C on node n81
+
+Unsupported at timestamp 1377676800 - 2013-08-28 00:00:00 =
+
+Phases A, B, and C on node n13
+Phases A, B, and C on node n152
+Phase A on node l68
+Phase A on node l69
+Phases A, B, and C on node l30
+Phases A, B, and C on node n250
+Phase A on node l9
+Phase A on node n1401
+Phase B on node l96
+Phase B on node l96_tpn
+Phases A, B, and C on node n61
+Phases A, B, and C on node n611
+Phase A on node l33
+Phase A on node l33_tpn
+Phase A on node l19
+Phase A on node l20
+Phases A, B, and C on node n135
+Phases A, B, and C on node l35
+Phase A on node l88_tpn
+Phase A on node l88_tm
+Phase C on node l66_tpn
+Phase C on node l66_tm
+Phases A, B, and C on node n78
+Phases A, B, and C on node l80
+Phase B on node l22_tpn
+Phase B on node l22_tm
+Phases A, B, and C on node l66
+Phases A, B, and C on node l50
+Phase C on node l50_tpn
+Phases A, B, and C on node n108
+Phase A on node l109
+Phases A, B, and C on node n101
+Phases A, B, and C on node n105
+Phases A, B, and C on node l51
+Phase B on node l99_tpn
+Phase B on node l99_tm
+Phases A, B, and C on node n57
+Phases A, B, and C on node l60
+Phase B on node l106
+Phase B on node l106_tpn
+Phases A, B, and C on node n197
+Phase A on node l70
+Phase A on node l70_tpn
+Phase C on node l50_tm
+Phase A on node l9_tpn
+Phase A on node l9_tm
+Phase B on node l39_tpn
+Phase B on node l39_tm
+Phase A on node l60_tpn
+Phase A on node l60_tm
+Phases A, B, and C on node n72
+Phases A, B, and C on node l76
+Phases A, B, and C on node l53
+Phase A on node l53_tpn
+Phase A on node l1_tpn
+Phase A on node l1_tm
+Phase C on node l84_tpn
+Phase C on node l84_tm
+Phases A, B, and C on node l52
+Phase A on node l10
+Phase A on node l10_tpn
+Phase B on node l58
+Phases A, B, and C on node n81
+Phase A on node l37
+Phase A on node l37_tpn
+Phase C on node l31
+Phase C on node l32
+Phases A, B, and C on node l42
+Phases A, B, and C on node n44
+Phase A on node l109_tpn
+Phase A on node l109_tm
+Phase A on node l51_tpn
+Phase B on node l86_tpn
+Phase B on node l86_tm
+Phases A, B, and C on node l99
+Phases A, B, and C on node l100
+Phase C on node n15
+Phase C on node l17
+Phase B on node l95_tpn
+Phase B on node l95_tm
+Phase C on node l83_tpn
+Phase C on node l83_tm
+Phase A on node n14
+Phase A on node l11
+Phase A on node l19_tpn
+Phase A on node l19_tm
+Phase C on node l4
+Phase C on node l4_tpn
+Phase B on node l90
+Phase B on node l90_tpn
+Phases A, B, and C on node n89
+Phases A, B, and C on node n91
+Phases A and B on node n36
+Phases A, B, and C on node l63
+Phase A on node l63_tpn
+Phases A, B, and C on node n300
+Phases A, B, and C on node l47
+Phases A, B, and C on node l49
+Phase A on node l45
+Phase A on node l46
+Phase C on node l41
+Phase C on node l41_tpn
+Phase C on node l30_tpn
+Phase C on node l30_tm
+Phases A, B, and C on node l1
+Phases A, B, and C on node l7
+Phases A, B, and C on node l64
+Phases A, B, and C on node l65
+Phase B on node l58_tpn
+Phase B on node l58_tm
+Phase B on node l56_tpn
+Phase B on node l56_tm
+Phase C on node l73
+Phase A on node l71_tpn
+Phase A on node l71_tm
+Phases A, B, and C on node n23
+Phases A, B, and C on node n25
+Phase A on node l33_tm
+Phases A, B, and C on node n93
+Phases A, B, and C on node l95
+Phase C on node l41_tm
+Phases A, B, and C on node n18
+Phases A, B, and C on node n21
+Phases A, B, and C on node l82
+Phases A, B, and C on node l55
+Phase A on node l55_tpn
+Phase C on node l74
+Phase C on node l74_tpn
+Phase C on node l102
+Phase C on node l102_tpn
+Phase A on node l113_tpn
+Phase A on node l113_tm
+Phases A, B, and C on node l29
+Phase A on node l29_tpn
+Phase A on node l94_tpn
+Phase A on node l94_tm
+Phases A, B, and C on node n8
+Phase A on node l112
+Phase A on node l113
+Phase C on node l34
+Phase C on node l34_tpn
+Phase A on node l20_tpn
+Phase A on node l20_tm
+Phase A on node l11_tpn
+Phase B on node l106_tm
+Phase C on node l103
+Phase A on node l82_tpn
+Phase A on node l82_tm
+Phase B on node l38
+Phase B on node l38_tpn
+Phase A on node l69_tpn
+Phase A on node l69_tm
+Phase A on node l51_tm
+Phases A, B, and C on node l87
+Phase B on node l39
+Phase A on node l55_tm
+Phases A, B, and C on node l62
+Phase A on node l7_tpn
+Phase A on node l7_tm
+Phase A on node l42_tpn
+Phase A on node l42_tm
+Phase C on node l102_tm
+Phase C on node l24
+Phase C on node l24_tpn
+Phase A on node l10_tm
+Phase C on node l4_tm
+Phase C on node l84
+Phase C on node l85
+Phase A on node l28_tpn
+Phase A on node l28_tm
+Phases A, B, and C on node n450
+Phases A, B, and C on node n451
+Phases A, B, and C on node l83
+Phases A, B, and C on node l28
+Phase C on node l75
+Phase C on node l75_tpn
+Phase A on node n110
+Phase A on node l111
+Phase A on node l63_tm
+Phases A, B, and C on node n54
+Phases A and C on node n2601
+Phases A and C on node n26
+Phase B on node l43
+Phase A on node l46_tpn
+Phase A on node l46_tm
+Phase C on node l103_tpn
+Phase C on node l17_tpn
+Phase C on node l17_tm
+Phases A, B, and C on node n40
+Phase A on node l37_tm
+Phase A on node l111_tpn
+Phase A on node l111_tm
+Phase B on node l64_tpn
+Phases A, B, and C on node l86
+Phase A on node l29_tm
+Phases A, B, and C on node n67
+Phase A on node l114
+Phase B on node l90_tm
+Phases A, B, and C on node l79
+Phase C on node l92
+Phase C on node l92_tpn
+Phase B on node l107
+Phase A on node l52_tpn
+Phases A, B, and C on node n97
+Phases A, B, and C on node n160
+Phase A on node l79_tpn
+Phase A on node l68_tpn
+Phase A on node l68_tm
+Phase B on node l22
+Phase A on node l45_tpn
+Phase A on node l45_tm
+Phase B on node l2_tpn
+Phase B on node l2_tm
+Phases A, B, and C on node l77
+Phase B on node l12_tpn
+Phase B on node l12_tm
+Phase C on node l6
+Phase C on node l6_tpn
+Phase A on node l112_tpn
+Phase B on node l107_tpn
+Phase A on node l70_tm
+Phase B on node l64_tm
+Phase C on node l31_tpn
+Phase C on node l31_tm
+Phase A on node l53_tm
+Phase C on node l62_tpn
+Phases A and C on node n27
+Phase C on node l16_tpn
+Phase C on node l16_tm
+Phase C on node l24_tm
+Phase C on node l92_tm
+Phase A on node l114_tpn
+Phase A on node l114_tm
+Phase B on node l87_tpn
+Phase B on node l87_tm
+Phases A, B, and C on node l56
+Phase C on node l73_tpn
+Phases A, B, and C on node n350
+Phase C on node l73_tm
+Phases A, B, and C on node n149
+Phase C on node l34_tm
+Phase A on node l52_tm
+Phase B on node l59
+Phase B on node l59_tpn
+Phase A on node l11_tm
+Phase A on node l94
+Phase A on node l112_tm
+Phase C on node n3
+Phase B on node l38_tm
+Phase C on node l85_tpn
+Phase C on node l85_tm
+Phase A on node l88
+Phase A on node l71
+Phase C on node l104
+Phase C on node l5
+Phase C on node l5_tpn
+Phase B on node l96_tm
+Phase B on node l80_tpn
+Phase B on node l77_tpn
+Phase B on node l77_tm
+Phase B on node l43_tpn
+Phases A, B, and C on node l98
+Phase A on node l98_tpn
+Phases A, B, and C on node n6701
+Phase C on node l16
+Phase C on node l103_tm
+Phase C on node l100_tpn
+Phase C on node l100_tm
+Phase B on node l12
+Phases A, B, and C on node n151
+Phase C on node l32_tpn
+Phases A, B, and C on node n251
+Phase A on node l79_tm
+Phase C on node l104_tpn
+Phase C on node l104_tm
+Phase C on node l62_tm
+Phase C on node l32_tm
+Phases A, B, and C on node l48
+Phase C on node l5_tm
+Phase A on node l98_tm
+Phase B on node l107_tm
+Phase C on node l6_tm
+Phase C on node l74_tm
+Phase B on node l80_tm
+Phases A, B, and C on node n610
+Phase B on node l59_tm
+Phases A, B, and C on node n195
+Phase B on node l43_tm
+Phase C on node l75_tm
+Phase B on node l2
+
+Unsupported at timestamp 1377676800 - 2013-08-28 00:00:00 =
+
+Phases A, B, and C on node n13
+Phases A, B, and C on node n152
+Phase A on node l68
+Phase A on node l69
+Phases A, B, and C on node l30
+Phases A, B, and C on node n250
+Phase A on node l9
+Phase A on node n1401
+Phase B on node l96
+Phase B on node l96_tpn
+Phases A, B, and C on node n61
+Phases A, B, and C on node n611
+Phase A on node l33
+Phase A on node l33_tpn
+Phase A on node l19
+Phase A on node l20
+Phases A, B, and C on node n135
+Phases A, B, and C on node l35
+Phase A on node l88_tpn
+Phase A on node l88_tm
+Phase C on node l66_tpn
+Phase C on node l66_tm
+Phases A, B, and C on node n78
+Phases A, B, and C on node l80
+Phase B on node l22_tpn
+Phase B on node l22_tm
+Phases A, B, and C on node l66
+Phases A, B, and C on node l50
+Phase C on node l50_tpn
+Phases A, B, and C on node n108
+Phase A on node l109
+Phases A, B, and C on node n101
+Phases A, B, and C on node n105
+Phases A, B, and C on node l51
+Phase B on node l99_tpn
+Phase B on node l99_tm
+Phases A, B, and C on node n57
+Phases A, B, and C on node l60
+Phase B on node l106
+Phase B on node l106_tpn
+Phases A, B, and C on node n197
+Phase A on node l70
+Phase A on node l70_tpn
+Phase C on node l50_tm
+Phase A on node l9_tpn
+Phase A on node l9_tm
+Phase B on node l39_tpn
+Phase B on node l39_tm
+Phase A on node l60_tpn
+Phase A on node l60_tm
+Phases A, B, and C on node n72
+Phases A, B, and C on node l76
+Phases A, B, and C on node l53
+Phase A on node l53_tpn
+Phase A on node l1_tpn
+Phase A on node l1_tm
+Phase C on node l84_tpn
+Phase C on node l84_tm
+Phases A, B, and C on node l52
+Phase A on node l10
+Phase A on node l10_tpn
+Phase B on node l58
+Phases A, B, and C on node n81
+Phase A on node l37
+Phase A on node l37_tpn
+Phase C on node l31
+Phase C on node l32
+Phases A, B, and C on node l42
+Phases A, B, and C on node n44
+Phase A on node l109_tpn
+Phase A on node l109_tm
+Phase A on node l51_tpn
+Phase B on node l86_tpn
+Phase B on node l86_tm
+Phases A, B, and C on node l99
+Phases A, B, and C on node l100
+Phase C on node n15
+Phase C on node l17
+Phase B on node l95_tpn
+Phase B on node l95_tm
+Phase C on node l83_tpn
+Phase C on node l83_tm
+Phase A on node n14
+Phase A on node l11
+Phase A on node l19_tpn
+Phase A on node l19_tm
+Phase C on node l4
+Phase C on node l4_tpn
+Phase B on node l90
+Phase B on node l90_tpn
+Phases A, B, and C on node n89
+Phases A, B, and C on node n91
+Phases A and B on node n36
+Phases A, B, and C on node l63
+Phase A on node l63_tpn
+Phases A, B, and C on node n300
+Phases A, B, and C on node l47
+Phases A, B, and C on node l49
+Phase A on node l45
+Phase A on node l46
+Phase C on node l41
+Phase C on node l41_tpn
+Phase C on node l30_tpn
+Phase C on node l30_tm
+Phases A, B, and C on node l1
+Phases A, B, and C on node l7
+Phases A, B, and C on node l64
+Phases A, B, and C on node l65
+Phase B on node l58_tpn
+Phase B on node l58_tm
+Phase B on node l56_tpn
+Phase B on node l56_tm
+Phase C on node l73
+Phase A on node l71_tpn
+Phase A on node l71_tm
+Phases A, B, and C on node n23
+Phases A, B, and C on node n25
+Phase A on node l33_tm
+Phases A, B, and C on node n93
+Phases A, B, and C on node l95
+Phase C on node l41_tm
+Phases A, B, and C on node n18
+Phases A, B, and C on node n21
+Phases A, B, and C on node l82
+Phases A, B, and C on node l55
+Phase A on node l55_tpn
+Phase C on node l74
+Phase C on node l74_tpn
+Phase C on node l102
+Phase C on node l102_tpn
+Phase A on node l113_tpn
+Phase A on node l113_tm
+Phases A, B, and C on node l29
+Phase A on node l29_tpn
+Phase A on node l94_tpn
+Phase A on node l94_tm
+Phases A, B, and C on node n8
+Phase A on node l112
+Phase A on node l113
+Phase C on node l34
+Phase C on node l34_tpn
+Phase A on node l20_tpn
+Phase A on node l20_tm
+Phase A on node l11_tpn
+Phase B on node l106_tm
+Phase C on node l103
+Phase A on node l82_tpn
+Phase A on node l82_tm
+Phase B on node l38
+Phase B on node l38_tpn
+Phase A on node l69_tpn
+Phase A on node l69_tm
+Phase A on node l51_tm
+Phases A, B, and C on node l87
+Phase B on node l39
+Phase A on node l55_tm
+Phases A, B, and C on node l62
+Phase A on node l7_tpn
+Phase A on node l7_tm
+Phase A on node l42_tpn
+Phase A on node l42_tm
+Phase C on node l102_tm
+Phase C on node l24
+Phase C on node l24_tpn
+Phase A on node l10_tm
+Phase C on node l4_tm
+Phase C on node l84
+Phase C on node l85
+Phase A on node l28_tpn
+Phase A on node l28_tm
+Phases A, B, and C on node n450
+Phases A, B, and C on node n451
+Phases A, B, and C on node l83
+Phases A, B, and C on node l28
+Phase C on node l75
+Phase C on node l75_tpn
+Phase A on node n110
+Phase A on node l111
+Phase A on node l63_tm
+Phases A, B, and C on node n54
+Phases A and C on node n2601
+Phases A and C on node n26
+Phase B on node l43
+Phase A on node l46_tpn
+Phase A on node l46_tm
+Phase C on node l103_tpn
+Phase C on node l17_tpn
+Phase C on node l17_tm
+Phases A, B, and C on node n40
+Phase A on node l37_tm
+Phase A on node l111_tpn
+Phase A on node l111_tm
+Phase B on node l64_tpn
+Phases A, B, and C on node l86
+Phase A on node l29_tm
+Phases A, B, and C on node n67
+Phase A on node l114
+Phase B on node l90_tm
+Phases A, B, and C on node l79
+Phase C on node l92
+Phase C on node l92_tpn
+Phase B on node l107
+Phase A on node l52_tpn
+Phases A, B, and C on node n97
+Phases A, B, and C on node n160
+Phase A on node l79_tpn
+Phase A on node l68_tpn
+Phase A on node l68_tm
+Phase B on node l22
+Phase A on node l45_tpn
+Phase A on node l45_tm
+Phase B on node l2_tpn
+Phase B on node l2_tm
+Phases A, B, and C on node l77
+Phase B on node l12_tpn
+Phase B on node l12_tm
+Phase C on node l6
+Phase C on node l6_tpn
+Phase A on node l112_tpn
+Phase B on node l107_tpn
+Phase A on node l70_tm
+Phase B on node l64_tm
+Phase C on node l31_tpn
+Phase C on node l31_tm
+Phase A on node l53_tm
+Phase C on node l62_tpn
+Phases A and C on node n27
+Phase C on node l16_tpn
+Phase C on node l16_tm
+Phase C on node l24_tm
+Phase C on node l92_tm
+Phase A on node l114_tpn
+Phase A on node l114_tm
+Phase B on node l87_tpn
+Phase B on node l87_tm
+Phases A, B, and C on node l56
+Phase C on node l73_tpn
+Phases A, B, and C on node n350
+Phase C on node l73_tm
+Phases A, B, and C on node n149
+Phase C on node l34_tm
+Phase A on node l52_tm
+Phase B on node l59
+Phase B on node l59_tpn
+Phase A on node l11_tm
+Phase A on node l94
+Phase A on node l112_tm
+Phase C on node n3
+Phase B on node l38_tm
+Phase C on node l85_tpn
+Phase C on node l85_tm
+Phase A on node l88
+Phase A on node l71
+Phase C on node l104
+Phase C on node l5
+Phase C on node l5_tpn
+Phase B on node l96_tm
+Phase B on node l80_tpn
+Phase B on node l77_tpn
+Phase B on node l77_tm
+Phase B on node l43_tpn
+Phases A, B, and C on node l98
+Phase A on node l98_tpn
+Phases A, B, and C on node n6701
+Phase C on node l16
+Phase C on node l103_tm
+Phase C on node l100_tpn
+Phase C on node l100_tm
+Phase B on node l12
+Phases A, B, and C on node n151
+Phase C on node l32_tpn
+Phases A, B, and C on node n251
+Phase A on node l79_tm
+Phase C on node l104_tpn
+Phase C on node l104_tm
+Phase C on node l62_tm
+Phase C on node l32_tm
+Phases A, B, and C on node l48
+Phase C on node l5_tm
+Phase A on node l98_tm
+Phase B on node l107_tm
+Phase C on node l6_tm
+Phase C on node l74_tm
+Phase B on node l80_tm
+Phases A, B, and C on node n610
+Phase B on node l59_tm
+Phases A, B, and C on node n195
+Phase B on node l43_tm
+Phase C on node l75_tm
+Phase B on node l2
+
+Unsupported at timestamp 1377676980 - 2013-08-28 00:03:00 =
+
+Phases A, B, and C on node n13
+Phases A, B, and C on node n152
+Phase A on node l68
+Phase A on node l69
+Phases A, B, and C on node l30
+Phases A, B, and C on node n250
+Phase A on node l9
+Phase A on node n1401
+Phase B on node l96
+Phase B on node l96_tpn
+Phases A, B, and C on node n61
+Phases A, B, and C on node n611
+Phase A on node l33
+Phase A on node l33_tpn
+Phase A on node l19
+Phase A on node l20
+Phases A, B, and C on node n135
+Phases A, B, and C on node l35
+Phase A on node l88_tpn
+Phase A on node l88_tm
+Phase C on node l66_tpn
+Phase C on node l66_tm
+Phases A, B, and C on node n78
+Phases A, B, and C on node l80
+Phase B on node l22_tpn
+Phase B on node l22_tm
+Phases A, B, and C on node l66
+Phases A, B, and C on node l50
+Phase C on node l50_tpn
+Phases A, B, and C on node n108
+Phase A on node l109
+Phases A, B, and C on node n101
+Phases A, B, and C on node n105
+Phases A, B, and C on node l51
+Phase B on node l99_tpn
+Phase B on node l99_tm
+Phases A, B, and C on node n57
+Phases A, B, and C on node l60
+Phase B on node l106
+Phase B on node l106_tpn
+Phases A, B, and C on node n197
+Phase A on node l70
+Phase A on node l70_tpn
+Phase C on node l50_tm
+Phase A on node l9_tpn
+Phase A on node l9_tm
+Phase B on node l39_tpn
+Phase B on node l39_tm
+Phase A on node l60_tpn
+Phase A on node l60_tm
+Phases A, B, and C on node n72
+Phases A, B, and C on node l76
+Phases A, B, and C on node l53
+Phase A on node l53_tpn
+Phase A on node l1_tpn
+Phase A on node l1_tm
+Phase C on node l84_tpn
+Phase C on node l84_tm
+Phases A, B, and C on node l52
+Phase A on node l10
+Phase A on node l10_tpn
+Phase B on node l58
+Phases A, B, and C on node n81
+Phase A on node l37
+Phase A on node l37_tpn
+Phase C on node l31
+Phase C on node l32
+Phases A, B, and C on node l42
+Phases A, B, and C on node n44
+Phase A on node l109_tpn
+Phase A on node l109_tm
+Phase A on node l51_tpn
+Phase B on node l86_tpn
+Phase B on node l86_tm
+Phases A, B, and C on node l99
+Phases A, B, and C on node l100
+Phase C on node n15
+Phase C on node l17
+Phase B on node l95_tpn
+Phase B on node l95_tm
+Phase C on node l83_tpn
+Phase C on node l83_tm
+Phase A on node n14
+Phase A on node l11
+Phase A on node l19_tpn
+Phase A on node l19_tm
+Phase C on node l4
+Phase C on node l4_tpn
+Phase B on node l90
+Phase B on node l90_tpn
+Phases A, B, and C on node n89
+Phases A, B, and C on node n91
+Phases A and B on node n36
+Phases A, B, and C on node l63
+Phase A on node l63_tpn
+Phases A, B, and C on node n300
+Phases A, B, and C on node l47
+Phases A, B, and C on node l49
+Phase A on node l45
+Phase A on node l46
+Phase C on node l41
+Phase C on node l41_tpn
+Phase C on node l30_tpn
+Phase C on node l30_tm
+Phases A, B, and C on node l1
+Phases A, B, and C on node l7
+Phases A, B, and C on node l64
+Phases A, B, and C on node l65
+Phase B on node l58_tpn
+Phase B on node l58_tm
+Phase B on node l56_tpn
+Phase B on node l56_tm
+Phase C on node l73
+Phase A on node l71_tpn
+Phase A on node l71_tm
+Phases A, B, and C on node n23
+Phases A, B, and C on node n25
+Phase A on node l33_tm
+Phases A, B, and C on node n93
+Phases A, B, and C on node l95
+Phase C on node l41_tm
+Phases A, B, and C on node n18
+Phases A, B, and C on node n21
+Phases A, B, and C on node l82
+Phases A, B, and C on node l55
+Phase A on node l55_tpn
+Phase C on node l74
+Phase C on node l74_tpn
+Phase C on node l102
+Phase C on node l102_tpn
+Phase A on node l113_tpn
+Phase A on node l113_tm
+Phases A, B, and C on node l29
+Phase A on node l29_tpn
+Phase A on node l94_tpn
+Phase A on node l94_tm
+Phases A, B, and C on node n8
+Phase A on node l112
+Phase A on node l113
+Phase C on node l34
+Phase C on node l34_tpn
+Phase A on node l20_tpn
+Phase A on node l20_tm
+Phase A on node l11_tpn
+Phase B on node l106_tm
+Phase C on node l103
+Phase A on node l82_tpn
+Phase A on node l82_tm
+Phase B on node l38
+Phase B on node l38_tpn
+Phase A on node l69_tpn
+Phase A on node l69_tm
+Phase A on node l51_tm
+Phases A, B, and C on node l87
+Phase B on node l39
+Phase A on node l55_tm
+Phases A, B, and C on node l62
+Phase A on node l7_tpn
+Phase A on node l7_tm
+Phase A on node l42_tpn
+Phase A on node l42_tm
+Phase C on node l102_tm
+Phase C on node l24
+Phase C on node l24_tpn
+Phase A on node l10_tm
+Phase C on node l4_tm
+Phase C on node l84
+Phase C on node l85
+Phase A on node l28_tpn
+Phase A on node l28_tm
+Phases A, B, and C on node n450
+Phases A, B, and C on node n451
+Phases A, B, and C on node l83
+Phases A, B, and C on node l28
+Phase C on node l75
+Phase C on node l75_tpn
+Phase A on node n110
+Phase A on node l111
+Phase A on node l63_tm
+Phases A, B, and C on node n54
+Phases A and C on node n2601
+Phases A and C on node n26
+Phase B on node l43
+Phase A on node l46_tpn
+Phase A on node l46_tm
+Phase C on node l103_tpn
+Phase C on node l17_tpn
+Phase C on node l17_tm
+Phases A, B, and C on node n40
+Phase A on node l37_tm
+Phase A on node l111_tpn
+Phase A on node l111_tm
+Phase B on node l64_tpn
+Phases A, B, and C on node l86
+Phase A on node l29_tm
+Phases A, B, and C on node n67
+Phase A on node l114
+Phase B on node l90_tm
+Phases A, B, and C on node l79
+Phase C on node l92
+Phase C on node l92_tpn
+Phase B on node l107
+Phase A on node l52_tpn
+Phases A, B, and C on node n97
+Phases A, B, and C on node n160
+Phase A on node l79_tpn
+Phase A on node l68_tpn
+Phase A on node l68_tm
+Phase B on node l22
+Phase A on node l45_tpn
+Phase A on node l45_tm
+Phase B on node l2_tpn
+Phase B on node l2_tm
+Phases A, B, and C on node l77
+Phase B on node l12_tpn
+Phase B on node l12_tm
+Phase C on node l6
+Phase C on node l6_tpn
+Phase A on node l112_tpn
+Phase B on node l107_tpn
+Phase A on node l70_tm
+Phase B on node l64_tm
+Phase C on node l31_tpn
+Phase C on node l31_tm
+Phase A on node l53_tm
+Phase C on node l62_tpn
+Phases A and C on node n27
+Phase C on node l16_tpn
+Phase C on node l16_tm
+Phase C on node l24_tm
+Phase C on node l92_tm
+Phase A on node l114_tpn
+Phase A on node l114_tm
+Phase B on node l87_tpn
+Phase B on node l87_tm
+Phases A, B, and C on node l56
+Phase C on node l73_tpn
+Phases A, B, and C on node n350
+Phase C on node l73_tm
+Phases A, B, and C on node n149
+Phase C on node l34_tm
+Phase A on node l52_tm
+Phase B on node l59
+Phase B on node l59_tpn
+Phase A on node l11_tm
+Phase A on node l94
+Phase A on node l112_tm
+Phase C on node n3
+Phase B on node l38_tm
+Phase C on node l85_tpn
+Phase C on node l85_tm
+Phase A on node l88
+Phase A on node l71
+Phase C on node l104
+Phase C on node l5
+Phase C on node l5_tpn
+Phase B on node l96_tm
+Phase B on node l80_tpn
+Phase B on node l77_tpn
+Phase B on node l77_tm
+Phase B on node l43_tpn
+Phases A, B, and C on node l98
+Phase A on node l98_tpn
+Phases A, B, and C on node n6701
+Phase C on node l16
+Phase C on node l103_tm
+Phase C on node l100_tpn
+Phase C on node l100_tm
+Phase B on node l12
+Phases A, B, and C on node n151
+Phase C on node l32_tpn
+Phases A, B, and C on node n251
+Phase A on node l79_tm
+Phase C on node l104_tpn
+Phase C on node l104_tm
+Phase C on node l62_tm
+Phase C on node l32_tm
+Phases A, B, and C on node l48
+Phase C on node l5_tm
+Phase A on node l98_tm
+Phase B on node l107_tm
+Phase C on node l6_tm
+Phase C on node l74_tm
+Phase B on node l80_tm
+Phases A, B, and C on node n610
+Phase B on node l59_tm
+Phases A, B, and C on node n195
+Phase B on node l43_tm
+Phase C on node l75_tm
+Phase B on node l2
+
+Unsupported at timestamp 1377677040 - 2013-08-28 00:04:00 =
+
+Phases A, B, and C on node n13
+Phases A, B, and C on node n152
+Phase A on node l68
+Phase A on node l69
+Phases A, B, and C on node l30
+Phases A, B, and C on node n250
+Phase A on node l9
+Phase A on node n1401
+Phase B on node l96
+Phase B on node l96_tpn
+Phases A, B, and C on node n61
+Phases A, B, and C on node n611
+Phase A on node l33
+Phase A on node l33_tpn
+Phase A on node l19
+Phase A on node l20
+Phases A, B, and C on node n135
+Phases A, B, and C on node l35
+Phase A on node l88_tpn
+Phase A on node l88_tm
+Phase C on node l66_tpn
+Phase C on node l66_tm
+Phases A, B, and C on node n78
+Phases A, B, and C on node l80
+Phase B on node l22_tpn
+Phase B on node l22_tm
+Phases A, B, and C on node l66
+Phases A, B, and C on node l50
+Phase C on node l50_tpn
+Phases A, B, and C on node n108
+Phase A on node l109
+Phases A, B, and C on node n101
+Phases A, B, and C on node n105
+Phases A, B, and C on node l51
+Phase B on node l99_tpn
+Phase B on node l99_tm
+Phases A, B, and C on node n57
+Phases A, B, and C on node l60
+Phase B on node l106
+Phase B on node l106_tpn
+Phases A, B, and C on node n197
+Phase A on node l70
+Phase A on node l70_tpn
+Phase C on node l50_tm
+Phase A on node l9_tpn
+Phase A on node l9_tm
+Phase B on node l39_tpn
+Phase B on node l39_tm
+Phase A on node l60_tpn
+Phase A on node l60_tm
+Phases A, B, and C on node n72
+Phases A, B, and C on node l76
+Phases A, B, and C on node l53
+Phase A on node l53_tpn
+Phase A on node l1_tpn
+Phase A on node l1_tm
+Phase C on node l84_tpn
+Phase C on node l84_tm
+Phases A, B, and C on node l52
+Phase A on node l10
+Phase A on node l10_tpn
+Phase B on node l58
+Phases A, B, and C on node n81
+Phase A on node l37
+Phase A on node l37_tpn
+Phase C on node l31
+Phase C on node l32
+Phases A, B, and C on node l42
+Phases A, B, and C on node n44
+Phase A on node l109_tpn
+Phase A on node l109_tm
+Phase A on node l51_tpn
+Phase B on node l86_tpn
+Phase B on node l86_tm
+Phases A, B, and C on node l99
+Phases A, B, and C on node l100
+Phase C on node n15
+Phase C on node l17
+Phase B on node l95_tpn
+Phase B on node l95_tm
+Phase C on node l83_tpn
+Phase C on node l83_tm
+Phase A on node n14
+Phase A on node l11
+Phase A on node l19_tpn
+Phase A on node l19_tm
+Phase C on node l4
+Phase C on node l4_tpn
+Phase B on node l90
+Phase B on node l90_tpn
+Phases A, B, and C on node n89
+Phases A, B, and C on node n91
+Phases A and B on node n36
+Phases A, B, and C on node l63
+Phase A on node l63_tpn
+Phases A, B, and C on node n300
+Phases A, B, and C on node l47
+Phases A, B, and C on node l49
+Phase A on node l45
+Phase A on node l46
+Phase C on node l41
+Phase C on node l41_tpn
+Phase C on node l30_tpn
+Phase C on node l30_tm
+Phases A, B, and C on node l1
+Phases A, B, and C on node l7
+Phases A, B, and C on node l64
+Phases A, B, and C on node l65
+Phase B on node l58_tpn
+Phase B on node l58_tm
+Phase B on node l56_tpn
+Phase B on node l56_tm
+Phase C on node l73
+Phase A on node l71_tpn
+Phase A on node l71_tm
+Phases A, B, and C on node n23
+Phases A, B, and C on node n25
+Phase A on node l33_tm
+Phases A, B, and C on node n93
+Phases A, B, and C on node l95
+Phase C on node l41_tm
+Phases A, B, and C on node n18
+Phases A, B, and C on node n21
+Phases A, B, and C on node l82
+Phases A, B, and C on node l55
+Phase A on node l55_tpn
+Phase C on node l74
+Phase C on node l74_tpn
+Phase C on node l102
+Phase C on node l102_tpn
+Phase A on node l113_tpn
+Phase A on node l113_tm
+Phases A, B, and C on node l29
+Phase A on node l29_tpn
+Phase A on node l94_tpn
+Phase A on node l94_tm
+Phases A, B, and C on node n8
+Phase A on node l112
+Phase A on node l113
+Phase C on node l34
+Phase C on node l34_tpn
+Phase A on node l20_tpn
+Phase A on node l20_tm
+Phase A on node l11_tpn
+Phase B on node l106_tm
+Phase C on node l103
+Phase A on node l82_tpn
+Phase A on node l82_tm
+Phase B on node l38
+Phase B on node l38_tpn
+Phase A on node l69_tpn
+Phase A on node l69_tm
+Phase A on node l51_tm
+Phases A, B, and C on node l87
+Phase B on node l39
+Phase A on node l55_tm
+Phases A, B, and C on node l62
+Phase A on node l7_tpn
+Phase A on node l7_tm
+Phase A on node l42_tpn
+Phase A on node l42_tm
+Phase C on node l102_tm
+Phase C on node l24
+Phase C on node l24_tpn
+Phase A on node l10_tm
+Phase C on node l4_tm
+Phase C on node l84
+Phase C on node l85
+Phase A on node l28_tpn
+Phase A on node l28_tm
+Phases A, B, and C on node n450
+Phases A, B, and C on node n451
+Phases A, B, and C on node l83
+Phases A, B, and C on node l28
+Phase C on node l75
+Phase C on node l75_tpn
+Phase A on node n110
+Phase A on node l111
+Phase A on node l63_tm
+Phases A, B, and C on node n54
+Phases A and C on node n2601
+Phases A and C on node n26
+Phase B on node l43
+Phase A on node l46_tpn
+Phase A on node l46_tm
+Phase C on node l103_tpn
+Phase C on node l17_tpn
+Phase C on node l17_tm
+Phases A, B, and C on node n40
+Phase A on node l37_tm
+Phase A on node l111_tpn
+Phase A on node l111_tm
+Phase B on node l64_tpn
+Phases A, B, and C on node l86
+Phase A on node l29_tm
+Phases A, B, and C on node n67
+Phase A on node l114
+Phase B on node l90_tm
+Phases A, B, and C on node l79
+Phase C on node l92
+Phase C on node l92_tpn
+Phase B on node l107
+Phase A on node l52_tpn
+Phases A, B, and C on node n97
+Phases A, B, and C on node n160
+Phase A on node l79_tpn
+Phase A on node l68_tpn
+Phase A on node l68_tm
+Phase B on node l22
+Phase A on node l45_tpn
+Phase A on node l45_tm
+Phase B on node l2_tpn
+Phase B on node l2_tm
+Phases A, B, and C on node l77
+Phase B on node l12_tpn
+Phase B on node l12_tm
+Phase C on node l6
+Phase C on node l6_tpn
+Phase A on node l112_tpn
+Phase B on node l107_tpn
+Phase A on node l70_tm
+Phase B on node l64_tm
+Phase C on node l31_tpn
+Phase C on node l31_tm
+Phase A on node l53_tm
+Phase C on node l62_tpn
+Phases A and C on node n27
+Phase C on node l16_tpn
+Phase C on node l16_tm
+Phase C on node l24_tm
+Phase C on node l92_tm
+Phase A on node l114_tpn
+Phase A on node l114_tm
+Phase B on node l87_tpn
+Phase B on node l87_tm
+Phases A, B, and C on node l56
+Phase C on node l73_tpn
+Phases A, B, and C on node n350
+Phase C on node l73_tm
+Phases A, B, and C on node n149
+Phase C on node l34_tm
+Phase A on node l52_tm
+Phase B on node l59
+Phase B on node l59_tpn
+Phase A on node l11_tm
+Phase A on node l94
+Phase A on node l112_tm
+Phase C on node n3
+Phase B on node l38_tm
+Phase C on node l85_tpn
+Phase C on node l85_tm
+Phase A on node l88
+Phase A on node l71
+Phase C on node l104
+Phase C on node l5
+Phase C on node l5_tpn
+Phase B on node l96_tm
+Phase B on node l80_tpn
+Phase B on node l77_tpn
+Phase B on node l77_tm
+Phase B on node l43_tpn
+Phases A, B, and C on node l98
+Phase A on node l98_tpn
+Phases A, B, and C on node n6701
+Phase C on node l16
+Phase C on node l103_tm
+Phase C on node l100_tpn
+Phase C on node l100_tm
+Phase B on node l12
+Phases A, B, and C on node n151
+Phase C on node l32_tpn
+Phases A, B, and C on node n251
+Phase A on node l79_tm
+Phase C on node l104_tpn
+Phase C on node l104_tm
+Phase C on node l62_tm
+Phase C on node l32_tm
+Phases A, B, and C on node l48
+Phase C on node l5_tm
+Phase A on node l98_tm
+Phase B on node l107_tm
+Phase C on node l6_tm
+Phase C on node l74_tm
+Phase B on node l80_tm
+Phases A, B, and C on node n610
+Phase B on node l59_tm
+Phases A, B, and C on node n195
+Phase B on node l43_tm
+Phase C on node l75_tm
+Phase B on node l2
+
+Unsupported at timestamp 1377677100 - 2013-08-28 00:05:00 =
+
+Phases A, B, and C on node n13
+Phases A, B, and C on node n152
+Phase A on node l68
+Phase A on node l69
+Phases A, B, and C on node l30
+Phases A, B, and C on node n250
+Phase A on node l9
+Phase A on node n1401
+Phase B on node l96
+Phase B on node l96_tpn
+Phases A, B, and C on node n61
+Phases A, B, and C on node n611
+Phase A on node l33
+Phase A on node l33_tpn
+Phase A on node l19
+Phase A on node l20
+Phases A, B, and C on node n135
+Phases A, B, and C on node l35
+Phase A on node l88_tpn
+Phase A on node l88_tm
+Phase C on node l66_tpn
+Phase C on node l66_tm
+Phases A, B, and C on node n78
+Phases A, B, and C on node l80
+Phase B on node l22_tpn
+Phase B on node l22_tm
+Phases A, B, and C on node l66
+Phases A, B, and C on node l50
+Phase C on node l50_tpn
+Phases A, B, and C on node n108
+Phase A on node l109
+Phases A, B, and C on node n101
+Phases A, B, and C on node n105
+Phases A, B, and C on node l51
+Phase B on node l99_tpn
+Phase B on node l99_tm
+Phases A, B, and C on node n57
+Phases A, B, and C on node l60
+Phase B on node l106
+Phase B on node l106_tpn
+Phases A, B, and C on node n197
+Phase A on node l70
+Phase A on node l70_tpn
+Phase C on node l50_tm
+Phase A on node l9_tpn
+Phase A on node l9_tm
+Phase B on node l39_tpn
+Phase B on node l39_tm
+Phase A on node l60_tpn
+Phase A on node l60_tm
+Phases A, B, and C on node n72
+Phases A, B, and C on node l76
+Phases A, B, and C on node l53
+Phase A on node l53_tpn
+Phase A on node l1_tpn
+Phase A on node l1_tm
+Phase C on node l84_tpn
+Phase C on node l84_tm
+Phases A, B, and C on node l52
+Phase A on node l10
+Phase A on node l10_tpn
+Phase B on node l58
+Phases A, B, and C on node n81
+Phase A on node l37
+Phase A on node l37_tpn
+Phase C on node l31
+Phase C on node l32
+Phases A, B, and C on node l42
+Phases A, B, and C on node n44
+Phase A on node l109_tpn
+Phase A on node l109_tm
+Phase A on node l51_tpn
+Phase B on node l86_tpn
+Phase B on node l86_tm
+Phases A, B, and C on node l99
+Phases A, B, and C on node l100
+Phase C on node n15
+Phase C on node l17
+Phase B on node l95_tpn
+Phase B on node l95_tm
+Phase C on node l83_tpn
+Phase C on node l83_tm
+Phase A on node n14
+Phase A on node l11
+Phase A on node l19_tpn
+Phase A on node l19_tm
+Phase C on node l4
+Phase C on node l4_tpn
+Phase B on node l90
+Phase B on node l90_tpn
+Phases A, B, and C on node n89
+Phases A, B, and C on node n91
+Phases A and B on node n36
+Phases A, B, and C on node l63
+Phase A on node l63_tpn
+Phases A, B, and C on node n300
+Phases A, B, and C on node l47
+Phases A, B, and C on node l49
+Phase A on node l45
+Phase A on node l46
+Phase C on node l41
+Phase C on node l41_tpn
+Phase C on node l30_tpn
+Phase C on node l30_tm
+Phases A, B, and C on node l1
+Phases A, B, and C on node l7
+Phases A, B, and C on node l64
+Phases A, B, and C on node l65
+Phase B on node l58_tpn
+Phase B on node l58_tm
+Phase B on node l56_tpn
+Phase B on node l56_tm
+Phase C on node l73
+Phase A on node l71_tpn
+Phase A on node l71_tm
+Phases A, B, and C on node n23
+Phases A, B, and C on node n25
+Phase A on node l33_tm
+Phases A, B, and C on node n93
+Phases A, B, and C on node l95
+Phase C on node l41_tm
+Phases A, B, and C on node n18
+Phases A, B, and C on node n21
+Phases A, B, and C on node l82
+Phases A, B, and C on node l55
+Phase A on node l55_tpn
+Phase C on node l74
+Phase C on node l74_tpn
+Phase C on node l102
+Phase C on node l102_tpn
+Phase A on node l113_tpn
+Phase A on node l113_tm
+Phases A, B, and C on node l29
+Phase A on node l29_tpn
+Phase A on node l94_tpn
+Phase A on node l94_tm
+Phases A, B, and C on node n8
+Phase A on node l112
+Phase A on node l113
+Phase C on node l34
+Phase C on node l34_tpn
+Phase A on node l20_tpn
+Phase A on node l20_tm
+Phase A on node l11_tpn
+Phase B on node l106_tm
+Phase C on node l103
+Phase A on node l82_tpn
+Phase A on node l82_tm
+Phase B on node l38
+Phase B on node l38_tpn
+Phase A on node l69_tpn
+Phase A on node l69_tm
+Phase A on node l51_tm
+Phases A, B, and C on node l87
+Phase B on node l39
+Phase A on node l55_tm
+Phases A, B, and C on node l62
+Phase A on node l7_tpn
+Phase A on node l7_tm
+Phase A on node l42_tpn
+Phase A on node l42_tm
+Phase C on node l102_tm
+Phase C on node l24
+Phase C on node l24_tpn
+Phase A on node l10_tm
+Phase C on node l4_tm
+Phase C on node l84
+Phase C on node l85
+Phase A on node l28_tpn
+Phase A on node l28_tm
+Phases A, B, and C on node n450
+Phases A, B, and C on node n451
+Phases A, B, and C on node l83
+Phases A, B, and C on node l28
+Phase C on node l75
+Phase C on node l75_tpn
+Phase A on node n110
+Phase A on node l111
+Phase A on node l63_tm
+Phases A, B, and C on node n54
+Phases A and C on node n2601
+Phases A and C on node n26
+Phase B on node l43
+Phase A on node l46_tpn
+Phase A on node l46_tm
+Phase C on node l103_tpn
+Phase C on node l17_tpn
+Phase C on node l17_tm
+Phases A, B, and C on node n40
+Phase A on node l37_tm
+Phase A on node l111_tpn
+Phase A on node l111_tm
+Phase B on node l64_tpn
+Phases A, B, and C on node l86
+Phase A on node l29_tm
+Phases A, B, and C on node n67
+Phase A on node l114
+Phase B on node l90_tm
+Phases A, B, and C on node l79
+Phase C on node l92
+Phase C on node l92_tpn
+Phase B on node l107
+Phase A on node l52_tpn
+Phases A, B, and C on node n97
+Phases A, B, and C on node n160
+Phase A on node l79_tpn
+Phase A on node l68_tpn
+Phase A on node l68_tm
+Phase B on node l22
+Phase A on node l45_tpn
+Phase A on node l45_tm
+Phase B on node l2_tpn
+Phase B on node l2_tm
+Phases A, B, and C on node l77
+Phase B on node l12_tpn
+Phase B on node l12_tm
+Phase C on node l6
+Phase C on node l6_tpn
+Phase A on node l112_tpn
+Phase B on node l107_tpn
+Phase A on node l70_tm
+Phase B on node l64_tm
+Phase C on node l31_tpn
+Phase C on node l31_tm
+Phase A on node l53_tm
+Phase C on node l62_tpn
+Phases A and C on node n27
+Phase C on node l16_tpn
+Phase C on node l16_tm
+Phase C on node l24_tm
+Phase C on node l92_tm
+Phase A on node l114_tpn
+Phase A on node l114_tm
+Phase B on node l87_tpn
+Phase B on node l87_tm
+Phases A, B, and C on node l56
+Phase C on node l73_tpn
+Phases A, B, and C on node n350
+Phase C on node l73_tm
+Phases A, B, and C on node n149
+Phase C on node l34_tm
+Phase A on node l52_tm
+Phase B on node l59
+Phase B on node l59_tpn
+Phase A on node l11_tm
+Phase A on node l94
+Phase A on node l112_tm
+Phase C on node n3
+Phase B on node l38_tm
+Phase C on node l85_tpn
+Phase C on node l85_tm
+Phase A on node l88
+Phase A on node l71
+Phase C on node l104
+Phase C on node l5
+Phase C on node l5_tpn
+Phase B on node l96_tm
+Phase B on node l80_tpn
+Phase B on node l77_tpn
+Phase B on node l77_tm
+Phase B on node l43_tpn
+Phases A, B, and C on node l98
+Phase A on node l98_tpn
+Phases A, B, and C on node n6701
+Phase C on node l16
+Phase C on node l103_tm
+Phase C on node l100_tpn
+Phase C on node l100_tm
+Phase B on node l12
+Phases A, B, and C on node n151
+Phase C on node l32_tpn
+Phases A, B, and C on node n251
+Phase A on node l79_tm
+Phase C on node l104_tpn
+Phase C on node l104_tm
+Phase C on node l62_tm
+Phase C on node l32_tm
+Phases A, B, and C on node l48
+Phase C on node l5_tm
+Phase A on node l98_tm
+Phase B on node l107_tm
+Phase C on node l6_tm
+Phase C on node l74_tm
+Phase B on node l80_tm
+Phases A, B, and C on node n610
+Phase B on node l59_tm
+Phases A, B, and C on node n195
+Phase B on node l43_tm
+Phase C on node l75_tm
+Phase B on node l2
+
+Unsupported at timestamp 1377677160 - 2013-08-28 00:06:00 =
+
+Phases A, B, and C on node n13
+Phases A, B, and C on node n152
+Phase A on node l68
+Phase A on node l69
+Phases A, B, and C on node l30
+Phases A, B, and C on node n250
+Phase A on node l9
+Phase A on node n1401
+Phase B on node l96
+Phase B on node l96_tpn
+Phases A, B, and C on node n61
+Phases A, B, and C on node n611
+Phase A on node l33
+Phase A on node l33_tpn
+Phase A on node l19
+Phase A on node l20
+Phases A, B, and C on node n135
+Phases A, B, and C on node l35
+Phase A on node l88_tpn
+Phase A on node l88_tm
+Phase C on node l66_tpn
+Phase C on node l66_tm
+Phases A, B, and C on node n78
+Phases A, B, and C on node l80
+Phase B on node l22_tpn
+Phase B on node l22_tm
+Phases A, B, and C on node l66
+Phases A, B, and C on node l50
+Phase C on node l50_tpn
+Phases A, B, and C on node n108
+Phase A on node l109
+Phases A, B, and C on node n101
+Phases A, B, and C on node n105
+Phases A, B, and C on node l51
+Phase B on node l99_tpn
+Phase B on node l99_tm
+Phases A, B, and C on node n57
+Phases A, B, and C on node l60
+Phase B on node l106
+Phase B on node l106_tpn
+Phases A, B, and C on node n197
+Phase A on node l70
+Phase A on node l70_tpn
+Phase C on node l50_tm
+Phase A on node l9_tpn
+Phase A on node l9_tm
+Phase B on node l39_tpn
+Phase B on node l39_tm
+Phase A on node l60_tpn
+Phase A on node l60_tm
+Phases A, B, and C on node n72
+Phases A, B, and C on node l76
+Phases A, B, and C on node l53
+Phase A on node l53_tpn
+Phase A on node l1_tpn
+Phase A on node l1_tm
+Phase C on node l84_tpn
+Phase C on node l84_tm
+Phases A, B, and C on node l52
+Phase A on node l10
+Phase A on node l10_tpn
+Phase B on node l58
+Phases A, B, and C on node n81
+Phase A on node l37
+Phase A on node l37_tpn
+Phase C on node l31
+Phase C on node l32
+Phases A, B, and C on node l42
+Phases A, B, and C on node n44
+Phase A on node l109_tpn
+Phase A on node l109_tm
+Phase A on node l51_tpn
+Phase B on node l86_tpn
+Phase B on node l86_tm
+Phases A, B, and C on node l99
+Phases A, B, and C on node l100
+Phase C on node n15
+Phase C on node l17
+Phase B on node l95_tpn
+Phase B on node l95_tm
+Phase C on node l83_tpn
+Phase C on node l83_tm
+Phase A on node n14
+Phase A on node l11
+Phase A on node l19_tpn
+Phase A on node l19_tm
+Phase C on node l4
+Phase C on node l4_tpn
+Phase B on node l90
+Phase B on node l90_tpn
+Phases A, B, and C on node n89
+Phases A, B, and C on node n91
+Phases A and B on node n36
+Phases A, B, and C on node l63
+Phase A on node l63_tpn
+Phases A, B, and C on node n300
+Phases A, B, and C on node l47
+Phases A, B, and C on node l49
+Phase A on node l45
+Phase A on node l46
+Phase C on node l41
+Phase C on node l41_tpn
+Phase C on node l30_tpn
+Phase C on node l30_tm
+Phases A, B, and C on node l1
+Phases A, B, and C on node l7
+Phases A, B, and C on node l64
+Phases A, B, and C on node l65
+Phase B on node l58_tpn
+Phase B on node l58_tm
+Phase B on node l56_tpn
+Phase B on node l56_tm
+Phase C on node l73
+Phase A on node l71_tpn
+Phase A on node l71_tm
+Phases A, B, and C on node n23
+Phases A, B, and C on node n25
+Phase A on node l33_tm
+Phases A, B, and C on node n93
+Phases A, B, and C on node l95
+Phase C on node l41_tm
+Phases A, B, and C on node n18
+Phases A, B, and C on node n21
+Phases A, B, and C on node l82
+Phases A, B, and C on node l55
+Phase A on node l55_tpn
+Phase C on node l74
+Phase C on node l74_tpn
+Phase C on node l102
+Phase C on node l102_tpn
+Phase A on node l113_tpn
+Phase A on node l113_tm
+Phases A, B, and C on node l29
+Phase A on node l29_tpn
+Phase A on node l94_tpn
+Phase A on node l94_tm
+Phases A, B, and C on node n8
+Phase A on node l112
+Phase A on node l113
+Phase C on node l34
+Phase C on node l34_tpn
+Phase A on node l20_tpn
+Phase A on node l20_tm
+Phase A on node l11_tpn
+Phase B on node l106_tm
+Phase C on node l103
+Phase A on node l82_tpn
+Phase A on node l82_tm
+Phase B on node l38
+Phase B on node l38_tpn
+Phase A on node l69_tpn
+Phase A on node l69_tm
+Phase A on node l51_tm
+Phases A, B, and C on node l87
+Phase B on node l39
+Phase A on node l55_tm
+Phases A, B, and C on node l62
+Phase A on node l7_tpn
+Phase A on node l7_tm
+Phase A on node l42_tpn
+Phase A on node l42_tm
+Phase C on node l102_tm
+Phase C on node l24
+Phase C on node l24_tpn
+Phase A on node l10_tm
+Phase C on node l4_tm
+Phase C on node l84
+Phase C on node l85
+Phase A on node l28_tpn
+Phase A on node l28_tm
+Phases A, B, and C on node n450
+Phases A, B, and C on node n451
+Phases A, B, and C on node l83
+Phases A, B, and C on node l28
+Phase C on node l75
+Phase C on node l75_tpn
+Phase A on node n110
+Phase A on node l111
+Phase A on node l63_tm
+Phases A, B, and C on node n54
+Phases A and C on node n2601
+Phases A and C on node n26
+Phase B on node l43
+Phase A on node l46_tpn
+Phase A on node l46_tm
+Phase C on node l103_tpn
+Phase C on node l17_tpn
+Phase C on node l17_tm
+Phases A, B, and C on node n40
+Phase A on node l37_tm
+Phase A on node l111_tpn
+Phase A on node l111_tm
+Phase B on node l64_tpn
+Phases A, B, and C on node l86
+Phase A on node l29_tm
+Phases A, B, and C on node n67
+Phase A on node l114
+Phase B on node l90_tm
+Phases A, B, and C on node l79
+Phase C on node l92
+Phase C on node l92_tpn
+Phase B on node l107
+Phase A on node l52_tpn
+Phases A, B, and C on node n97
+Phases A, B, and C on node n160
+Phase A on node l79_tpn
+Phase A on node l68_tpn
+Phase A on node l68_tm
+Phase B on node l22
+Phase A on node l45_tpn
+Phase A on node l45_tm
+Phase B on node l2_tpn
+Phase B on node l2_tm
+Phases A, B, and C on node l77
+Phase B on node l12_tpn
+Phase B on node l12_tm
+Phase C on node l6
+Phase C on node l6_tpn
+Phase A on node l112_tpn
+Phase B on node l107_tpn
+Phase A on node l70_tm
+Phase B on node l64_tm
+Phase C on node l31_tpn
+Phase C on node l31_tm
+Phase A on node l53_tm
+Phase C on node l62_tpn
+Phases A and C on node n27
+Phase C on node l16_tpn
+Phase C on node l16_tm
+Phase C on node l24_tm
+Phase C on node l92_tm
+Phase A on node l114_tpn
+Phase A on node l114_tm
+Phase B on node l87_tpn
+Phase B on node l87_tm
+Phases A, B, and C on node l56
+Phase C on node l73_tpn
+Phases A, B, and C on node n350
+Phase C on node l73_tm
+Phases A, B, and C on node n149
+Phase C on node l34_tm
+Phase A on node l52_tm
+Phase B on node l59
+Phase B on node l59_tpn
+Phase A on node l11_tm
+Phase A on node l94
+Phase A on node l112_tm
+Phase C on node n3
+Phase B on node l38_tm
+Phase C on node l85_tpn
+Phase C on node l85_tm
+Phase A on node l88
+Phase A on node l71
+Phase C on node l104
+Phase C on node l5
+Phase C on node l5_tpn
+Phase B on node l96_tm
+Phase B on node l80_tpn
+Phase B on node l77_tpn
+Phase B on node l77_tm
+Phase B on node l43_tpn
+Phases A, B, and C on node l98
+Phase A on node l98_tpn
+Phases A, B, and C on node n6701
+Phase C on node l16
+Phase C on node l103_tm
+Phase C on node l100_tpn
+Phase C on node l100_tm
+Phase B on node l12
+Phases A, B, and C on node n151
+Phase C on node l32_tpn
+Phases A, B, and C on node n251
+Phase A on node l79_tm
+Phase C on node l104_tpn
+Phase C on node l104_tm
+Phase C on node l62_tm
+Phase C on node l32_tm
+Phases A, B, and C on node l48
+Phase C on node l5_tm
+Phase A on node l98_tm
+Phase B on node l107_tm
+Phase C on node l6_tm
+Phase C on node l74_tm
+Phase B on node l80_tm
+Phases A, B, and C on node n610
+Phase B on node l59_tm
+Phases A, B, and C on node n195
+Phase B on node l43_tm
+Phase C on node l75_tm
+Phase B on node l2
+
+Unsupported at timestamp 1377677220 - 2013-08-28 00:07:00 =
+
+Phases A, B, and C on node n13
+Phases A, B, and C on node n152
+Phase A on node l68
+Phase A on node l69
+Phases A, B, and C on node l30
+Phases A, B, and C on node n250
+Phase A on node l9
+Phase A on node n1401
+Phase B on node l96
+Phase B on node l96_tpn
+Phases A, B, and C on node n61
+Phases A, B, and C on node n611
+Phase A on node l33
+Phase A on node l33_tpn
+Phase A on node l19
+Phase A on node l20
+Phases A, B, and C on node n135
+Phases A, B, and C on node l35
+Phase A on node l88_tpn
+Phase A on node l88_tm
+Phase C on node l66_tpn
+Phase C on node l66_tm
+Phases A, B, and C on node n78
+Phases A, B, and C on node l80
+Phase B on node l22_tpn
+Phase B on node l22_tm
+Phases A, B, and C on node l66
+Phases A, B, and C on node l50
+Phase C on node l50_tpn
+Phases A, B, and C on node n108
+Phase A on node l109
+Phases A, B, and C on node n101
+Phases A, B, and C on node n105
+Phases A, B, and C on node l51
+Phase B on node l99_tpn
+Phase B on node l99_tm
+Phases A, B, and C on node n57
+Phases A, B, and C on node l60
+Phase B on node l106
+Phase B on node l106_tpn
+Phases A, B, and C on node n197
+Phase A on node l70
+Phase A on node l70_tpn
+Phase C on node l50_tm
+Phase A on node l9_tpn
+Phase A on node l9_tm
+Phase B on node l39_tpn
+Phase B on node l39_tm
+Phase A on node l60_tpn
+Phase A on node l60_tm
+Phases A, B, and C on node n72
+Phases A, B, and C on node l76
+Phases A, B, and C on node l53
+Phase A on node l53_tpn
+Phase A on node l1_tpn
+Phase A on node l1_tm
+Phase C on node l84_tpn
+Phase C on node l84_tm
+Phases A, B, and C on node l52
+Phase A on node l10
+Phase A on node l10_tpn
+Phase B on node l58
+Phases A, B, and C on node n81
+Phase A on node l37
+Phase A on node l37_tpn
+Phase C on node l31
+Phase C on node l32
+Phases A, B, and C on node l42
+Phases A, B, and C on node n44
+Phase A on node l109_tpn
+Phase A on node l109_tm
+Phase A on node l51_tpn
+Phase B on node l86_tpn
+Phase B on node l86_tm
+Phases A, B, and C on node l99
+Phases A, B, and C on node l100
+Phase C on node n15
+Phase C on node l17
+Phase B on node l95_tpn
+Phase B on node l95_tm
+Phase C on node l83_tpn
+Phase C on node l83_tm
+Phase A on node n14
+Phase A on node l11
+Phase A on node l19_tpn
+Phase A on node l19_tm
+Phase C on node l4
+Phase C on node l4_tpn
+Phase B on node l90
+Phase B on node l90_tpn
+Phases A, B, and C on node n89
+Phases A, B, and C on node n91
+Phases A and B on node n36
+Phases A, B, and C on node l63
+Phase A on node l63_tpn
+Phases A, B, and C on node n300
+Phases A, B, and C on node l47
+Phases A, B, and C on node l49
+Phase A on node l45
+Phase A on node l46
+Phase C on node l41
+Phase C on node l41_tpn
+Phase C on node l30_tpn
+Phase C on node l30_tm
+Phases A, B, and C on node l1
+Phases A, B, and C on node l7
+Phases A, B, and C on node l64
+Phases A, B, and C on node l65
+Phase B on node l58_tpn
+Phase B on node l58_tm
+Phase B on node l56_tpn
+Phase B on node l56_tm
+Phase C on node l73
+Phase A on node l71_tpn
+Phase A on node l71_tm
+Phases A, B, and C on node n23
+Phases A, B, and C on node n25
+Phase A on node l33_tm
+Phases A, B, and C on node n93
+Phases A, B, and C on node l95
+Phase C on node l41_tm
+Phases A, B, and C on node n18
+Phases A, B, and C on node n21
+Phases A, B, and C on node l82
+Phases A, B, and C on node l55
+Phase A on node l55_tpn
+Phase C on node l74
+Phase C on node l74_tpn
+Phase C on node l102
+Phase C on node l102_tpn
+Phase A on node l113_tpn
+Phase A on node l113_tm
+Phases A, B, and C on node l29
+Phase A on node l29_tpn
+Phase A on node l94_tpn
+Phase A on node l94_tm
+Phases A, B, and C on node n8
+Phase A on node l112
+Phase A on node l113
+Phase C on node l34
+Phase C on node l34_tpn
+Phase A on node l20_tpn
+Phase A on node l20_tm
+Phase A on node l11_tpn
+Phase B on node l106_tm
+Phase C on node l103
+Phase A on node l82_tpn
+Phase A on node l82_tm
+Phase B on node l38
+Phase B on node l38_tpn
+Phase A on node l69_tpn
+Phase A on node l69_tm
+Phase A on node l51_tm
+Phases A, B, and C on node l87
+Phase B on node l39
+Phase A on node l55_tm
+Phases A, B, and C on node l62
+Phase A on node l7_tpn
+Phase A on node l7_tm
+Phase A on node l42_tpn
+Phase A on node l42_tm
+Phase C on node l102_tm
+Phase C on node l24
+Phase C on node l24_tpn
+Phase A on node l10_tm
+Phase C on node l4_tm
+Phase C on node l84
+Phase C on node l85
+Phase A on node l28_tpn
+Phase A on node l28_tm
+Phases A, B, and C on node n450
+Phases A, B, and C on node n451
+Phases A, B, and C on node l83
+Phases A, B, and C on node l28
+Phase C on node l75
+Phase C on node l75_tpn
+Phase A on node n110
+Phase A on node l111
+Phase A on node l63_tm
+Phases A, B, and C on node n54
+Phases A and C on node n2601
+Phases A and C on node n26
+Phase B on node l43
+Phase A on node l46_tpn
+Phase A on node l46_tm
+Phase C on node l103_tpn
+Phase C on node l17_tpn
+Phase C on node l17_tm
+Phases A, B, and C on node n40
+Phase A on node l37_tm
+Phase A on node l111_tpn
+Phase A on node l111_tm
+Phase B on node l64_tpn
+Phases A, B, and C on node l86
+Phase A on node l29_tm
+Phases A, B, and C on node n67
+Phase A on node l114
+Phase B on node l90_tm
+Phases A, B, and C on node l79
+Phase C on node l92
+Phase C on node l92_tpn
+Phase B on node l107
+Phase A on node l52_tpn
+Phases A, B, and C on node n97
+Phases A, B, and C on node n160
+Phase A on node l79_tpn
+Phase A on node l68_tpn
+Phase A on node l68_tm
+Phase B on node l22
+Phase A on node l45_tpn
+Phase A on node l45_tm
+Phase B on node l2_tpn
+Phase B on node l2_tm
+Phases A, B, and C on node l77
+Phase B on node l12_tpn
+Phase B on node l12_tm
+Phase C on node l6
+Phase C on node l6_tpn
+Phase A on node l112_tpn
+Phase B on node l107_tpn
+Phase A on node l70_tm
+Phase B on node l64_tm
+Phase C on node l31_tpn
+Phase C on node l31_tm
+Phase A on node l53_tm
+Phase C on node l62_tpn
+Phases A and C on node n27
+Phase C on node l16_tpn
+Phase C on node l16_tm
+Phase C on node l24_tm
+Phase C on node l92_tm
+Phase A on node l114_tpn
+Phase A on node l114_tm
+Phase B on node l87_tpn
+Phase B on node l87_tm
+Phases A, B, and C on node l56
+Phase C on node l73_tpn
+Phases A, B, and C on node n350
+Phase C on node l73_tm
+Phases A, B, and C on node n149
+Phase C on node l34_tm
+Phase A on node l52_tm
+Phase B on node l59
+Phase B on node l59_tpn
+Phase A on node l11_tm
+Phase A on node l94
+Phase A on node l112_tm
+Phase C on node n3
+Phase B on node l38_tm
+Phase C on node l85_tpn
+Phase C on node l85_tm
+Phase A on node l88
+Phase A on node l71
+Phase C on node l104
+Phase C on node l5
+Phase C on node l5_tpn
+Phase B on node l96_tm
+Phase B on node l80_tpn
+Phase B on node l77_tpn
+Phase B on node l77_tm
+Phase B on node l43_tpn
+Phases A, B, and C on node l98
+Phase A on node l98_tpn
+Phases A, B, and C on node n6701
+Phase C on node l16
+Phase C on node l103_tm
+Phase C on node l100_tpn
+Phase C on node l100_tm
+Phase B on node l12
+Phases A, B, and C on node n151
+Phase C on node l32_tpn
+Phases A, B, and C on node n251
+Phase A on node l79_tm
+Phase C on node l104_tpn
+Phase C on node l104_tm
+Phase C on node l62_tm
+Phase C on node l32_tm
+Phases A, B, and C on node l48
+Phase C on node l5_tm
+Phase A on node l98_tm
+Phase B on node l107_tm
+Phase C on node l6_tm
+Phase C on node l74_tm
+Phase B on node l80_tm
+Phases A, B, and C on node n610
+Phase B on node l59_tm
+Phases A, B, and C on node n195
+Phase B on node l43_tm
+Phase C on node l75_tm
+Phase B on node l2
+
+Unsupported at timestamp 1377677280 - 2013-08-28 00:08:00 =
+
+Phases A, B, and C on node n13
+Phases A, B, and C on node n152
+Phase A on node l68
+Phase A on node l69
+Phases A, B, and C on node l30
+Phases A, B, and C on node n250
+Phase A on node l9
+Phase A on node n1401
+Phase B on node l96
+Phase B on node l96_tpn
+Phases A, B, and C on node n61
+Phases A, B, and C on node n611
+Phase A on node l33
+Phase A on node l33_tpn
+Phase A on node l19
+Phase A on node l20
+Phases A, B, and C on node n135
+Phases A, B, and C on node l35
+Phase A on node l88_tpn
+Phase A on node l88_tm
+Phase C on node l66_tpn
+Phase C on node l66_tm
+Phases A, B, and C on node n78
+Phases A, B, and C on node l80
+Phase B on node l22_tpn
+Phase B on node l22_tm
+Phases A, B, and C on node l66
+Phases A, B, and C on node l50
+Phase C on node l50_tpn
+Phases A, B, and C on node n108
+Phase A on node l109
+Phases A, B, and C on node n101
+Phases A, B, and C on node n105
+Phases A, B, and C on node l51
+Phase B on node l99_tpn
+Phase B on node l99_tm
+Phases A, B, and C on node n57
+Phases A, B, and C on node l60
+Phase B on node l106
+Phase B on node l106_tpn
+Phases A, B, and C on node n197
+Phase A on node l70
+Phase A on node l70_tpn
+Phase C on node l50_tm
+Phase A on node l9_tpn
+Phase A on node l9_tm
+Phase B on node l39_tpn
+Phase B on node l39_tm
+Phase A on node l60_tpn
+Phase A on node l60_tm
+Phases A, B, and C on node n72
+Phases A, B, and C on node l76
+Phases A, B, and C on node l53
+Phase A on node l53_tpn
+Phase A on node l1_tpn
+Phase A on node l1_tm
+Phase C on node l84_tpn
+Phase C on node l84_tm
+Phases A, B, and C on node l52
+Phase A on node l10
+Phase A on node l10_tpn
+Phase B on node l58
+Phases A, B, and C on node n81
+Phase A on node l37
+Phase A on node l37_tpn
+Phase C on node l31
+Phase C on node l32
+Phases A, B, and C on node l42
+Phases A, B, and C on node n44
+Phase A on node l109_tpn
+Phase A on node l109_tm
+Phase A on node l51_tpn
+Phase B on node l86_tpn
+Phase B on node l86_tm
+Phases A, B, and C on node l99
+Phases A, B, and C on node l100
+Phase C on node n15
+Phase C on node l17
+Phase B on node l95_tpn
+Phase B on node l95_tm
+Phase C on node l83_tpn
+Phase C on node l83_tm
+Phase A on node n14
+Phase A on node l11
+Phase A on node l19_tpn
+Phase A on node l19_tm
+Phase C on node l4
+Phase C on node l4_tpn
+Phase B on node l90
+Phase B on node l90_tpn
+Phases A, B, and C on node n89
+Phases A, B, and C on node n91
+Phases A and B on node n36
+Phases A, B, and C on node l63
+Phase A on node l63_tpn
+Phases A, B, and C on node n300
+Phases A, B, and C on node l47
+Phases A, B, and C on node l49
+Phase A on node l45
+Phase A on node l46
+Phase C on node l41
+Phase C on node l41_tpn
+Phase C on node l30_tpn
+Phase C on node l30_tm
+Phases A, B, and C on node l1
+Phases A, B, and C on node l7
+Phases A, B, and C on node l64
+Phases A, B, and C on node l65
+Phase B on node l58_tpn
+Phase B on node l58_tm
+Phase B on node l56_tpn
+Phase B on node l56_tm
+Phase C on node l73
+Phase A on node l71_tpn
+Phase A on node l71_tm
+Phases A, B, and C on node n23
+Phases A, B, and C on node n25
+Phase A on node l33_tm
+Phases A, B, and C on node n93
+Phases A, B, and C on node l95
+Phase C on node l41_tm
+Phases A, B, and C on node n18
+Phases A, B, and C on node n21
+Phases A, B, and C on node l82
+Phases A, B, and C on node l55
+Phase A on node l55_tpn
+Phase C on node l74
+Phase C on node l74_tpn
+Phase C on node l102
+Phase C on node l102_tpn
+Phase A on node l113_tpn
+Phase A on node l113_tm
+Phases A, B, and C on node l29
+Phase A on node l29_tpn
+Phase A on node l94_tpn
+Phase A on node l94_tm
+Phases A, B, and C on node n8
+Phase A on node l112
+Phase A on node l113
+Phase C on node l34
+Phase C on node l34_tpn
+Phase A on node l20_tpn
+Phase A on node l20_tm
+Phase A on node l11_tpn
+Phase B on node l106_tm
+Phase C on node l103
+Phase A on node l82_tpn
+Phase A on node l82_tm
+Phase B on node l38
+Phase B on node l38_tpn
+Phase A on node l69_tpn
+Phase A on node l69_tm
+Phase A on node l51_tm
+Phases A, B, and C on node l87
+Phase B on node l39
+Phase A on node l55_tm
+Phases A, B, and C on node l62
+Phase A on node l7_tpn
+Phase A on node l7_tm
+Phase A on node l42_tpn
+Phase A on node l42_tm
+Phase C on node l102_tm
+Phase C on node l24
+Phase C on node l24_tpn
+Phase A on node l10_tm
+Phase C on node l4_tm
+Phase C on node l84
+Phase C on node l85
+Phase A on node l28_tpn
+Phase A on node l28_tm
+Phases A, B, and C on node n450
+Phases A, B, and C on node n451
+Phases A, B, and C on node l83
+Phases A, B, and C on node l28
+Phase C on node l75
+Phase C on node l75_tpn
+Phase A on node n110
+Phase A on node l111
+Phase A on node l63_tm
+Phases A, B, and C on node n54
+Phases A and C on node n2601
+Phases A and C on node n26
+Phase B on node l43
+Phase A on node l46_tpn
+Phase A on node l46_tm
+Phase C on node l103_tpn
+Phase C on node l17_tpn
+Phase C on node l17_tm
+Phases A, B, and C on node n40
+Phase A on node l37_tm
+Phase A on node l111_tpn
+Phase A on node l111_tm
+Phase B on node l64_tpn
+Phases A, B, and C on node l86
+Phase A on node l29_tm
+Phases A, B, and C on node n67
+Phase A on node l114
+Phase B on node l90_tm
+Phases A, B, and C on node l79
+Phase C on node l92
+Phase C on node l92_tpn
+Phase B on node l107
+Phase A on node l52_tpn
+Phases A, B, and C on node n97
+Phases A, B, and C on node n160
+Phase A on node l79_tpn
+Phase A on node l68_tpn
+Phase A on node l68_tm
+Phase B on node l22
+Phase A on node l45_tpn
+Phase A on node l45_tm
+Phase B on node l2_tpn
+Phase B on node l2_tm
+Phases A, B, and C on node l77
+Phase B on node l12_tpn
+Phase B on node l12_tm
+Phase C on node l6
+Phase C on node l6_tpn
+Phase A on node l112_tpn
+Phase B on node l107_tpn
+Phase A on node l70_tm
+Phase B on node l64_tm
+Phase C on node l31_tpn
+Phase C on node l31_tm
+Phase A on node l53_tm
+Phase C on node l62_tpn
+Phases A and C on node n27
+Phase C on node l16_tpn
+Phase C on node l16_tm
+Phase C on node l24_tm
+Phase C on node l92_tm
+Phase A on node l114_tpn
+Phase A on node l114_tm
+Phase B on node l87_tpn
+Phase B on node l87_tm
+Phases A, B, and C on node l56
+Phase C on node l73_tpn
+Phases A, B, and C on node n350
+Phase C on node l73_tm
+Phases A, B, and C on node n149
+Phase C on node l34_tm
+Phase A on node l52_tm
+Phase B on node l59
+Phase B on node l59_tpn
+Phase A on node l11_tm
+Phase A on node l94
+Phase A on node l112_tm
+Phase C on node n3
+Phase B on node l38_tm
+Phase C on node l85_tpn
+Phase C on node l85_tm
+Phase A on node l88
+Phase A on node l71
+Phase C on node l104
+Phase C on node l5
+Phase C on node l5_tpn
+Phase B on node l96_tm
+Phase B on node l80_tpn
+Phase B on node l77_tpn
+Phase B on node l77_tm
+Phase B on node l43_tpn
+Phases A, B, and C on node l98
+Phase A on node l98_tpn
+Phases A, B, and C on node n6701
+Phase C on node l16
+Phase C on node l103_tm
+Phase C on node l100_tpn
+Phase C on node l100_tm
+Phase B on node l12
+Phases A, B, and C on node n151
+Phase C on node l32_tpn
+Phases A, B, and C on node n251
+Phase A on node l79_tm
+Phase C on node l104_tpn
+Phase C on node l104_tm
+Phase C on node l62_tm
+Phase C on node l32_tm
+Phases A, B, and C on node l48
+Phase C on node l5_tm
+Phase A on node l98_tm
+Phase B on node l107_tm
+Phase C on node l6_tm
+Phase C on node l74_tm
+Phase B on node l80_tm
+Phases A, B, and C on node n610
+Phase B on node l59_tm
+Phases A, B, and C on node n195
+Phase B on node l43_tm
+Phase C on node l75_tm
+Phase B on node l2
+
+Unsupported at timestamp 1377677340 - 2013-08-28 00:09:00 =
+
+Phases A, B, and C on node n13
+Phases A, B, and C on node n152
+Phase A on node l68
+Phase A on node l69
+Phases A, B, and C on node l30
+Phases A, B, and C on node n250
+Phase A on node l9
+Phase A on node n1401
+Phase B on node l96
+Phase B on node l96_tpn
+Phases A, B, and C on node n61
+Phases A, B, and C on node n611
+Phase A on node l33
+Phase A on node l33_tpn
+Phase A on node l19
+Phase A on node l20
+Phases A, B, and C on node n135
+Phases A, B, and C on node l35
+Phase A on node l88_tpn
+Phase A on node l88_tm
+Phase C on node l66_tpn
+Phase C on node l66_tm
+Phases A, B, and C on node n78
+Phases A, B, and C on node l80
+Phase B on node l22_tpn
+Phase B on node l22_tm
+Phases A, B, and C on node l66
+Phases A, B, and C on node l50
+Phase C on node l50_tpn
+Phases A, B, and C on node n108
+Phase A on node l109
+Phases A, B, and C on node n101
+Phases A, B, and C on node n105
+Phases A, B, and C on node l51
+Phase B on node l99_tpn
+Phase B on node l99_tm
+Phases A, B, and C on node n57
+Phases A, B, and C on node l60
+Phase B on node l106
+Phase B on node l106_tpn
+Phases A, B, and C on node n197
+Phase A on node l70
+Phase A on node l70_tpn
+Phase C on node l50_tm
+Phase A on node l9_tpn
+Phase A on node l9_tm
+Phase B on node l39_tpn
+Phase B on node l39_tm
+Phase A on node l60_tpn
+Phase A on node l60_tm
+Phases A, B, and C on node n72
+Phases A, B, and C on node l76
+Phases A, B, and C on node l53
+Phase A on node l53_tpn
+Phase A on node l1_tpn
+Phase A on node l1_tm
+Phase C on node l84_tpn
+Phase C on node l84_tm
+Phases A, B, and C on node l52
+Phase A on node l10
+Phase A on node l10_tpn
+Phase B on node l58
+Phases A, B, and C on node n81
+Phase A on node l37
+Phase A on node l37_tpn
+Phase C on node l31
+Phase C on node l32
+Phases A, B, and C on node l42
+Phases A, B, and C on node n44
+Phase A on node l109_tpn
+Phase A on node l109_tm
+Phase A on node l51_tpn
+Phase B on node l86_tpn
+Phase B on node l86_tm
+Phases A, B, and C on node l99
+Phases A, B, and C on node l100
+Phase C on node n15
+Phase C on node l17
+Phase B on node l95_tpn
+Phase B on node l95_tm
+Phase C on node l83_tpn
+Phase C on node l83_tm
+Phase A on node n14
+Phase A on node l11
+Phase A on node l19_tpn
+Phase A on node l19_tm
+Phase C on node l4
+Phase C on node l4_tpn
+Phase B on node l90
+Phase B on node l90_tpn
+Phases A, B, and C on node n89
+Phases A, B, and C on node n91
+Phases A and B on node n36
+Phases A, B, and C on node l63
+Phase A on node l63_tpn
+Phases A, B, and C on node n300
+Phases A, B, and C on node l47
+Phases A, B, and C on node l49
+Phase A on node l45
+Phase A on node l46
+Phase C on node l41
+Phase C on node l41_tpn
+Phase C on node l30_tpn
+Phase C on node l30_tm
+Phases A, B, and C on node l1
+Phases A, B, and C on node l7
+Phases A, B, and C on node l64
+Phases A, B, and C on node l65
+Phase B on node l58_tpn
+Phase B on node l58_tm
+Phase B on node l56_tpn
+Phase B on node l56_tm
+Phase C on node l73
+Phase A on node l71_tpn
+Phase A on node l71_tm
+Phases A, B, and C on node n23
+Phases A, B, and C on node n25
+Phase A on node l33_tm
+Phases A, B, and C on node n93
+Phases A, B, and C on node l95
+Phase C on node l41_tm
+Phases A, B, and C on node n18
+Phases A, B, and C on node n21
+Phases A, B, and C on node l82
+Phases A, B, and C on node l55
+Phase A on node l55_tpn
+Phase C on node l74
+Phase C on node l74_tpn
+Phase C on node l102
+Phase C on node l102_tpn
+Phase A on node l113_tpn
+Phase A on node l113_tm
+Phases A, B, and C on node l29
+Phase A on node l29_tpn
+Phase A on node l94_tpn
+Phase A on node l94_tm
+Phases A, B, and C on node n8
+Phase A on node l112
+Phase A on node l113
+Phase C on node l34
+Phase C on node l34_tpn
+Phase A on node l20_tpn
+Phase A on node l20_tm
+Phase A on node l11_tpn
+Phase B on node l106_tm
+Phase C on node l103
+Phase A on node l82_tpn
+Phase A on node l82_tm
+Phase B on node l38
+Phase B on node l38_tpn
+Phase A on node l69_tpn
+Phase A on node l69_tm
+Phase A on node l51_tm
+Phases A, B, and C on node l87
+Phase B on node l39
+Phase A on node l55_tm
+Phases A, B, and C on node l62
+Phase A on node l7_tpn
+Phase A on node l7_tm
+Phase A on node l42_tpn
+Phase A on node l42_tm
+Phase C on node l102_tm
+Phase C on node l24
+Phase C on node l24_tpn
+Phase A on node l10_tm
+Phase C on node l4_tm
+Phase C on node l84
+Phase C on node l85
+Phase A on node l28_tpn
+Phase A on node l28_tm
+Phases A, B, and C on node n450
+Phases A, B, and C on node n451
+Phases A, B, and C on node l83
+Phases A, B, and C on node l28
+Phase C on node l75
+Phase C on node l75_tpn
+Phase A on node n110
+Phase A on node l111
+Phase A on node l63_tm
+Phases A, B, and C on node n54
+Phases A and C on node n2601
+Phases A and C on node n26
+Phase B on node l43
+Phase A on node l46_tpn
+Phase A on node l46_tm
+Phase C on node l103_tpn
+Phase C on node l17_tpn
+Phase C on node l17_tm
+Phases A, B, and C on node n40
+Phase A on node l37_tm
+Phase A on node l111_tpn
+Phase A on node l111_tm
+Phase B on node l64_tpn
+Phases A, B, and C on node l86
+Phase A on node l29_tm
+Phases A, B, and C on node n67
+Phase A on node l114
+Phase B on node l90_tm
+Phases A, B, and C on node l79
+Phase C on node l92
+Phase C on node l92_tpn
+Phase B on node l107
+Phase A on node l52_tpn
+Phases A, B, and C on node n97
+Phases A, B, and C on node n160
+Phase A on node l79_tpn
+Phase A on node l68_tpn
+Phase A on node l68_tm
+Phase B on node l22
+Phase A on node l45_tpn
+Phase A on node l45_tm
+Phase B on node l2_tpn
+Phase B on node l2_tm
+Phases A, B, and C on node l77
+Phase B on node l12_tpn
+Phase B on node l12_tm
+Phase C on node l6
+Phase C on node l6_tpn
+Phase A on node l112_tpn
+Phase B on node l107_tpn
+Phase A on node l70_tm
+Phase B on node l64_tm
+Phase C on node l31_tpn
+Phase C on node l31_tm
+Phase A on node l53_tm
+Phase C on node l62_tpn
+Phases A and C on node n27
+Phase C on node l16_tpn
+Phase C on node l16_tm
+Phase C on node l24_tm
+Phase C on node l92_tm
+Phase A on node l114_tpn
+Phase A on node l114_tm
+Phase B on node l87_tpn
+Phase B on node l87_tm
+Phases A, B, and C on node l56
+Phase C on node l73_tpn
+Phases A, B, and C on node n350
+Phase C on node l73_tm
+Phases A, B, and C on node n149
+Phase C on node l34_tm
+Phase A on node l52_tm
+Phase B on node l59
+Phase B on node l59_tpn
+Phase A on node l11_tm
+Phase A on node l94
+Phase A on node l112_tm
+Phase C on node n3
+Phase B on node l38_tm
+Phase C on node l85_tpn
+Phase C on node l85_tm
+Phase A on node l88
+Phase A on node l71
+Phase C on node l104
+Phase C on node l5
+Phase C on node l5_tpn
+Phase B on node l96_tm
+Phase B on node l80_tpn
+Phase B on node l77_tpn
+Phase B on node l77_tm
+Phase B on node l43_tpn
+Phases A, B, and C on node l98
+Phase A on node l98_tpn
+Phases A, B, and C on node n6701
+Phase C on node l16
+Phase C on node l103_tm
+Phase C on node l100_tpn
+Phase C on node l100_tm
+Phase B on node l12
+Phases A, B, and C on node n151
+Phase C on node l32_tpn
+Phases A, B, and C on node n251
+Phase A on node l79_tm
+Phase C on node l104_tpn
+Phase C on node l104_tm
+Phase C on node l62_tm
+Phase C on node l32_tm
+Phases A, B, and C on node l48
+Phase C on node l5_tm
+Phase A on node l98_tm
+Phase B on node l107_tm
+Phase C on node l6_tm
+Phase C on node l74_tm
+Phase B on node l80_tm
+Phases A, B, and C on node n610
+Phase B on node l59_tm
+Phases A, B, and C on node n195
+Phase B on node l43_tm
+Phase C on node l75_tm
+Phase B on node l2
+
+Unsupported at timestamp 1377680400 - 2013-08-28 01:00:00 =
+
+Phases A, B, and C on node n13
+Phases A, B, and C on node n152
+Phase A on node l68
+Phase A on node l69
+Phases A, B, and C on node l30
+Phases A, B, and C on node n250
+Phase A on node l9
+Phase A on node n1401
+Phase B on node l96
+Phase B on node l96_tpn
+Phases A, B, and C on node n61
+Phases A, B, and C on node n611
+Phase A on node l33
+Phase A on node l33_tpn
+Phase A on node l19
+Phase A on node l20
+Phases A, B, and C on node n135
+Phases A, B, and C on node l35
+Phase A on node l88_tpn
+Phase A on node l88_tm
+Phase C on node l66_tpn
+Phase C on node l66_tm
+Phases A, B, and C on node n78
+Phases A, B, and C on node l80
+Phase B on node l22_tpn
+Phase B on node l22_tm
+Phases A, B, and C on node l66
+Phases A, B, and C on node l50
+Phase C on node l50_tpn
+Phases A, B, and C on node n108
+Phase A on node l109
+Phases A, B, and C on node n101
+Phases A, B, and C on node n105
+Phases A, B, and C on node l51
+Phase B on node l99_tpn
+Phase B on node l99_tm
+Phases A, B, and C on node n57
+Phases A, B, and C on node l60
+Phase B on node l106
+Phase B on node l106_tpn
+Phases A, B, and C on node n197
+Phase A on node l70
+Phase A on node l70_tpn
+Phase C on node l50_tm
+Phase A on node l9_tpn
+Phase A on node l9_tm
+Phase B on node l39_tpn
+Phase B on node l39_tm
+Phase A on node l60_tpn
+Phase A on node l60_tm
+Phases A, B, and C on node n72
+Phases A, B, and C on node l76
+Phases A, B, and C on node l53
+Phase A on node l53_tpn
+Phase A on node l1_tpn
+Phase A on node l1_tm
+Phase C on node l84_tpn
+Phase C on node l84_tm
+Phases A, B, and C on node l52
+Phase A on node l10
+Phase A on node l10_tpn
+Phase B on node l58
+Phases A, B, and C on node n81
+Phase A on node l37
+Phase A on node l37_tpn
+Phase C on node l31
+Phase C on node l32
+Phases A, B, and C on node l42
+Phases A, B, and C on node n44
+Phase A on node l109_tpn
+Phase A on node l109_tm
+Phase A on node l51_tpn
+Phase B on node l86_tpn
+Phase B on node l86_tm
+Phases A, B, and C on node l99
+Phases A, B, and C on node l100
+Phase C on node n15
+Phase C on node l17
+Phase B on node l95_tpn
+Phase B on node l95_tm
+Phase C on node l83_tpn
+Phase C on node l83_tm
+Phase A on node n14
+Phase A on node l11
+Phase A on node l19_tpn
+Phase A on node l19_tm
+Phase C on node l4
+Phase C on node l4_tpn
+Phase B on node l90
+Phase B on node l90_tpn
+Phases A, B, and C on node n89
+Phases A, B, and C on node n91
+Phases A and B on node n36
+Phases A, B, and C on node l63
+Phase A on node l63_tpn
+Phases A, B, and C on node n300
+Phases A, B, and C on node l47
+Phases A, B, and C on node l49
+Phase A on node l45
+Phase A on node l46
+Phase C on node l41
+Phase C on node l41_tpn
+Phase C on node l30_tpn
+Phase C on node l30_tm
+Phases A, B, and C on node l1
+Phases A, B, and C on node l7
+Phases A, B, and C on node l64
+Phases A, B, and C on node l65
+Phase B on node l58_tpn
+Phase B on node l58_tm
+Phase B on node l56_tpn
+Phase B on node l56_tm
+Phase C on node l73
+Phase A on node l71_tpn
+Phase A on node l71_tm
+Phases A, B, and C on node n23
+Phases A, B, and C on node n25
+Phase A on node l33_tm
+Phases A, B, and C on node n93
+Phases A, B, and C on node l95
+Phase C on node l41_tm
+Phases A, B, and C on node n18
+Phases A, B, and C on node n21
+Phases A, B, and C on node l82
+Phases A, B, and C on node l55
+Phase A on node l55_tpn
+Phase C on node l74
+Phase C on node l74_tpn
+Phase C on node l102
+Phase C on node l102_tpn
+Phase A on node l113_tpn
+Phase A on node l113_tm
+Phases A, B, and C on node l29
+Phase A on node l29_tpn
+Phase A on node l94_tpn
+Phase A on node l94_tm
+Phases A, B, and C on node n8
+Phase A on node l112
+Phase A on node l113
+Phase C on node l34
+Phase C on node l34_tpn
+Phase A on node l20_tpn
+Phase A on node l20_tm
+Phase A on node l11_tpn
+Phase B on node l106_tm
+Phase C on node l103
+Phase A on node l82_tpn
+Phase A on node l82_tm
+Phase B on node l38
+Phase B on node l38_tpn
+Phase A on node l69_tpn
+Phase A on node l69_tm
+Phase A on node l51_tm
+Phases A, B, and C on node l87
+Phase B on node l39
+Phase A on node l55_tm
+Phases A, B, and C on node l62
+Phase A on node l7_tpn
+Phase A on node l7_tm
+Phase A on node l42_tpn
+Phase A on node l42_tm
+Phase C on node l102_tm
+Phase C on node l24
+Phase C on node l24_tpn
+Phase A on node l10_tm
+Phase C on node l4_tm
+Phase C on node l84
+Phase C on node l85
+Phase A on node l28_tpn
+Phase A on node l28_tm
+Phases A, B, and C on node n450
+Phases A, B, and C on node n451
+Phases A, B, and C on node l83
+Phases A, B, and C on node l28
+Phase C on node l75
+Phase C on node l75_tpn
+Phase A on node n110
+Phase A on node l111
+Phase A on node l63_tm
+Phases A, B, and C on node n54
+Phases A and C on node n2601
+Phases A and C on node n26
+Phase B on node l43
+Phase A on node l46_tpn
+Phase A on node l46_tm
+Phase C on node l103_tpn
+Phase C on node l17_tpn
+Phase C on node l17_tm
+Phases A, B, and C on node n40
+Phase A on node l37_tm
+Phase A on node l111_tpn
+Phase A on node l111_tm
+Phase B on node l64_tpn
+Phases A, B, and C on node l86
+Phase A on node l29_tm
+Phases A, B, and C on node n67
+Phase A on node l114
+Phase B on node l90_tm
+Phases A, B, and C on node l79
+Phase C on node l92
+Phase C on node l92_tpn
+Phase B on node l107
+Phase A on node l52_tpn
+Phases A, B, and C on node n97
+Phases A, B, and C on node n160
+Phase A on node l79_tpn
+Phase A on node l68_tpn
+Phase A on node l68_tm
+Phase B on node l22
+Phase A on node l45_tpn
+Phase A on node l45_tm
+Phase B on node l2_tpn
+Phase B on node l2_tm
+Phases A, B, and C on node l77
+Phase B on node l12_tpn
+Phase B on node l12_tm
+Phase C on node l6
+Phase C on node l6_tpn
+Phase A on node l112_tpn
+Phase B on node l107_tpn
+Phase A on node l70_tm
+Phase B on node l64_tm
+Phase C on node l31_tpn
+Phase C on node l31_tm
+Phase A on node l53_tm
+Phase C on node l62_tpn
+Phases A and C on node n27
+Phase C on node l16_tpn
+Phase C on node l16_tm
+Phase C on node l24_tm
+Phase C on node l92_tm
+Phase A on node l114_tpn
+Phase A on node l114_tm
+Phase B on node l87_tpn
+Phase B on node l87_tm
+Phases A, B, and C on node l56
+Phase C on node l73_tpn
+Phases A, B, and C on node n350
+Phase C on node l73_tm
+Phases A, B, and C on node n149
+Phase C on node l34_tm
+Phase A on node l52_tm
+Phase B on node l59
+Phase B on node l59_tpn
+Phase A on node l11_tm
+Phase A on node l94
+Phase A on node l112_tm
+Phase C on node n3
+Phase B on node l38_tm
+Phase C on node l85_tpn
+Phase C on node l85_tm
+Phase A on node l88
+Phase A on node l71
+Phase C on node l104
+Phase C on node l5
+Phase C on node l5_tpn
+Phase B on node l96_tm
+Phase B on node l80_tpn
+Phase B on node l77_tpn
+Phase B on node l77_tm
+Phase B on node l43_tpn
+Phases A, B, and C on node l98
+Phase A on node l98_tpn
+Phases A, B, and C on node n6701
+Phase C on node l16
+Phase C on node l103_tm
+Phase C on node l100_tpn
+Phase C on node l100_tm
+Phase B on node l12
+Phases A, B, and C on node n151
+Phase C on node l32_tpn
+Phases A, B, and C on node n251
+Phase A on node l79_tm
+Phase C on node l104_tpn
+Phase C on node l104_tm
+Phase C on node l62_tm
+Phase C on node l32_tm
+Phases A, B, and C on node l48
+Phase C on node l5_tm
+Phase A on node l98_tm
+Phase B on node l107_tm
+Phase C on node l6_tm
+Phase C on node l74_tm
+Phase B on node l80_tm
+Phases A, B, and C on node n610
+Phase B on node l59_tm
+Phases A, B, and C on node n195
+Phase B on node l43_tm
+Phase C on node l75_tm
+Phase B on node l2
+
