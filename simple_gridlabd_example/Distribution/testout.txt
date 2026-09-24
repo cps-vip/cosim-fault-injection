@@ -1,8 +1,7 @@
 Unsupported at timestamp 1377676800 - 2013-08-28 00:00:00 =
 
-Phases B and C on node network_node
-Phases B and C on node n13
-Phases B and C on node n81
+Phase C on node network_node
+Phase C on node n13
 
 Unsupported at timestamp 1377676800 - 2013-08-28 00:00:00 =
 

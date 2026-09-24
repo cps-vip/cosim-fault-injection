@@ -11,11 +11,13 @@ touch $BROKER_LOG
 touch $TRANSMISSION_LOG
 touch $DISTRIBUTION_LOG
 
+uv sync
+
 HELICS_BROKER=`which helics_broker`
-($HELICS_BROKER -t="zmq" --federates=3 --name=mainbroker > $BROKER_LOG)&
+($HELICS_BROKER -t="zmq" --federates=4 --name=mainbroker > $BROKER_LOG)&
 
 cd Transmission
-python Transmission_simulator.py > ../$TRANSMISSION_LOG 2>&1 &
+uv run Transmission_simulator.py > ../$TRANSMISSION_LOG 2>&1 &
 cd ..
 
 cd Distribution
@@ -23,5 +25,5 @@ gridlabd IEEE_123_feeder_0.glm > ../$DISTRIBUTION_LOG 2>&1 &
 cd ..
 
 cd Relay 
-(exec python Relay_simulator.py)
+(exec uv run Relay_simulator.py)
 cd ..

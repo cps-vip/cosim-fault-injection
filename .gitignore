@@ -2,3 +2,6 @@ install/
 HELICS/build
 **/CMakeFiles/
 **/CMakeCache.txt
+.venv
+*.log
+software

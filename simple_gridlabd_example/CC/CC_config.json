@@ -1,0 +1,28 @@
+{
+    "coreInit": "--federates=1",
+    "coreName": "ControlCenter Federate",
+    "coreType": "zmq",
+    "name": "cc",
+    "offset": 0,
+    "period": 60,
+    "timeDelta": 1,
+    "logfile": "cc_output.log",
+    "log_level": "debug",
+    "uninterruptible": true,
+    "publications": [
+        {
+            "name": "Coordinates",
+            "key": "fault_coordinates",
+            "type": "string",
+	    "required": true
+        }
+    ],
+    "subscriptions": [
+        {
+            "name": "Trip",
+            "key": "relay/trip",
+            "type": "string",
+            "required": true
+        }
+    ]
+}

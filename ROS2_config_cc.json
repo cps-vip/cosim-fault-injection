@@ -1,0 +1,23 @@
+{
+    "coreInit": "--federates=1",
+    "coreName": "ROS2 Federate",
+    "coreType": "zmq",
+    "name": "ROS2",
+    "offset": 0,
+    "period": 60,
+    "timeDelta": 1,
+    "logfile": "output.log",
+    "log_level": "debug",
+    "uninterruptible": false,
+    "publications": [
+    ],
+    "subscriptions": [
+        {
+        "name": "Coordinates",
+        "key": "cc/fault_coordinates",
+        "type": "string",
+	"required": true	
+        }
+     ]
+
+}

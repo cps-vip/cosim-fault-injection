@@ -1,0 +1,40 @@
+{
+    "broker": false,
+    "federates":[
+        {
+            "directory":".",
+            "exec":"helics_broker -f5",
+            "host":"localhost",
+            "name":"broker"
+        },
+        {
+            "directory":"./Transmission/",
+            "exec":"python3 Transmission_simulator.py",
+            "logfile":"./results/Transmission.log",
+            "host":"localhost",
+            "name":"TransmissionFederate"
+        },
+        {
+            "directory":"./Distribution/",
+            "exec":"gridlabd IEEE_123_feeder_0.glm",
+            "logfile":"./results/Distribution.log",
+            "host":"localhost",
+            "name":"GridLABDFederate"
+        },
+        {
+            "directory":"./Relay/",
+            "exec":"python3 Relay_simulator.py",
+            "logfile":"./results/Relay.log",
+            "host":"localhost",
+            "name":"RelayFederate"
+        },
+	{
+            "directory":"./CC/",
+            "exec":"python3 CC_simulator.py",
+            "logfile":"./results/CC.log",
+            "host":"localhost",
+            "name":"CCFederate"
+        }
+    ],
+    "name":"Example-1a-T-D-Cosimulation-HELICSRunner"
+}
