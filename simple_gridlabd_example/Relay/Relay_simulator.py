@@ -1,5 +1,6 @@
 import helics as h
 import logging
+import os
 
 logger = logging.getLogger("Relay")
 logger.addHandler(logging.StreamHandler())
@@ -32,7 +33,7 @@ if __name__ == "__main__":
     grantedtime = -1
     sensing_interval = 5 * 60  # 5 minutes
     total_interval = 60 * 60 * 24  # 24 hours
-    threshold = 1.0  # Current threshold to trip relay
+    threshold = 5.0  # Current threshold to trip relay (actual feeder baseline is ~4.45 A)
 
     for t in range(0, total_interval, sensing_interval):
         while grantedtime < t:
@@ -42,8 +43,10 @@ if __name__ == "__main__":
         current = h.helicsInputGetComplex(subid[0])  # CurrentA
         logger.info("{}: Current reading = {}".format(federate_name, current))
 
-        if abs(current) < threshold:
-            logger.info("{}: Relay tripped at t={}".format(federate_name, grantedtime))
+        # Check current drop or manual trigger
+        manual_trip = os.path.exists("/tmp/trip_relay") or os.getenv("AUTO_TRIP", "0") == "1"
+        if abs(current) < threshold or manual_trip:
+            logger.info("{}: Relay tripped at t={} (current={:.2f}, manual={})".format(federate_name, grantedtime, abs(current), manual_trip))
             h.helicsPublicationPublishString(pubid[0], "TRIPPED")
 
     # Terminate federate

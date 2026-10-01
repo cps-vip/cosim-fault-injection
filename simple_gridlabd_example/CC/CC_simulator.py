@@ -44,8 +44,8 @@ if __name__ == "__main__":
             logger.info("{}: Relay status = {}".format(federate_name, status))
 
             if status == "TRIPPED":
-                # Publish dummy coordinates
-                coords = "5.0,-3.0"
+                # Publish dummy coordinates within mapped area
+                coords = "1.5,0.5"
                 logger.info(
                     "{}: Publishing dummy fault coordinates: {}".format(
                         federate_name, coords
