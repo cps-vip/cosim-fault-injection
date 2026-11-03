@@ -31,6 +31,7 @@ if __name__ == "__main__":
     h.helicsFederateEnterExecutingMode(fed)
 
     grantedtime = -1
+    fault_count = 0
     sensing_interval = 5 * 60
     total_interval = 60 * 60 * 24
 
@@ -44,8 +45,13 @@ if __name__ == "__main__":
             logger.info("{}: Relay status = {}".format(federate_name, status))
 
             if status == "TRIPPED":
+                fault_count += 1
+                if fault_count % 2 == 0:
+                    coords = "1.5,0.5"
+                else:
+                    coords = "1.0,0.5"
                 # Publish dummy coordinates within mapped area
-                coords = "1.5,0.5"
+        
                 logger.info(
                     "{}: Publishing dummy fault coordinates: {}".format(
                         federate_name, coords

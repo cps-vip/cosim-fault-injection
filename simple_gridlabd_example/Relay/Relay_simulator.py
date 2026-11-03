@@ -45,10 +45,11 @@ if __name__ == "__main__":
 
         # Check current drop or manual trigger
         manual_trip = os.path.exists("/tmp/trip_relay") or os.getenv("AUTO_TRIP", "0") == "1"
-        if abs(current) < threshold or manual_trip:
+        if manual_trip:
             logger.info("{}: Relay tripped at t={} (current={:.2f}, manual={})".format(federate_name, grantedtime, abs(current), manual_trip))
             h.helicsPublicationPublishString(pubid[0], "TRIPPED")
-
+            if os.path.exists("/tmp/trip_relay"):
+                os.remove("/tmp/trip_relay")
     # Terminate federate
     t = 60 * 60 * 24
     while grantedtime < t:
